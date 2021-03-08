@@ -1,0 +1,1 @@
+Example rating curve (red) with parametric uncertainty (light red shading). Blue line and shading represent “prior” rating curve and parametric uncertainty using information based on hydraulic controls only, respectively. Picture from “Rating Curve” documentation for BaRatinAGE (Le Coz, 2013; Le Coz, 2014)

@@ -1,0 +1,1 @@
+One second measurements are used to generate 1-, 5- and 30-minute averages.

@@ -1,0 +1,2 @@
+
+The external lab reports quality flags in the following fields: 'externalQualifier', 'extendedQualifier1', 'extendedQualifier2', 'extendedQualifier3', 'extendedQualifier4' and 'extendedQualifier5' in asp_externalLabData. These quality flags are defined in section 4.5 of the NEON User Guide to Aquatic Sediment Chemical and Physical Properties. 

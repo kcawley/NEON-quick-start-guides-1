@@ -1,0 +1,1 @@
+Data should be divided by the scale factor (10,000) stored in the Scale_Factor attribute of the dataset in the HDF 5 file. This will put the data in a range of 0 (0%) to 1 (100%).

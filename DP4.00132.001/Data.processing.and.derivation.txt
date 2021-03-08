@@ -1,0 +1,2 @@
+Empirical Bayesian Kriging parameters are used during post-processing to interpolate depth data points. The document NEON Standard Operating Procedure: Post-Processing of Bathymetric and Side Scan Sonar Data from NEON Lakes and Non-Wadeable Streams contains additional post-processing procedures used for this data product.
+

@@ -1,0 +1,1 @@
+rpt_bloodtesting table can be joined to mam_pertrapnight by bloodSampleID

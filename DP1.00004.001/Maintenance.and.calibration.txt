@@ -1,0 +1,1 @@
+Preventative maintenance includes checking the LED indicator that shows the sensor is streaming, this is typically performed every two weeks. Calibration is performed annually.

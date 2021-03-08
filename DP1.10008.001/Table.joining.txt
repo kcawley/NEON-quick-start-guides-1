@@ -1,0 +1,1 @@
+Table spc_biogeochem may be joined to spc_perhorizon, spc_bulkdensity, and spc_particlesize by the horizonID. The lab summary table spc_externalSummary can be associated with data generated in the spc_biogeochem table within the laboratoryName x analyte x sampleType x labSpecific-StartDate combination.

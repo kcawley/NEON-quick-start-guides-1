@@ -1,0 +1,1 @@
+Foliar spectral reflectance and transmittance of sunlit canopy foliage samples, or of stand-alone sunlit or shaded foliage samples (unitless/proportion at a given wavelength). All measurements are geo-referenced, and when possible accompanied by a shapefile of the canopy crown.

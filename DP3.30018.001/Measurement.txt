@@ -1,0 +1,1 @@
+Normalized difference nitrogen index (NDNI) from remotely sensed data; mosaicked product from flightlines.  NDNI values typically range from 0 to 1.

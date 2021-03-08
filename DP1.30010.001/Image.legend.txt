@@ -1,0 +1,1 @@
+Aerial image projected onto DTM mesh

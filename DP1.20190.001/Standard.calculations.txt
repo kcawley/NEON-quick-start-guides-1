@@ -1,0 +1,1 @@
+Standard calculations for determining reaeration rates can be found in the Appendix (6.3) of the NEON User Guide to Reaeration and Salt-based Discharge Sampling included in the data package. The NEON developed package reaRate can also be used to calculate loss rate, travel times, and k600 values from the data (https://github.com/NEONScience/NEON-reaeration).

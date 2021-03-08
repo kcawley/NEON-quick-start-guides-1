@@ -1,0 +1,1 @@
+The ratio of solar energy reflected off of the earth’s surface to total incident energy in the 0.4 to 2.5 micron wavelength range and modeled to best account for the many influencing factors such as reflectance angle/wavelength, solar angle, and scattering, absorbing, & re-radiating effects of atmospheric conditions. Albedo data values range from 0 to 1.

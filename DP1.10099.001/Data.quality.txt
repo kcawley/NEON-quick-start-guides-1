@@ -1,0 +1,1 @@
+Data quality is implemented at the point of data ingest.  Data is controlled through the provision of a list of value options to reduce the necessary steps for raw data publication.  

@@ -1,0 +1,3 @@
+Following data entry into a mobile application or web user interface, the steps used to process the data through
+to publication on the NEON Data Portal are detailed in the NEON Algorithm Theoretical Basis Document: OS
+Generic Transitions (AD[13]).

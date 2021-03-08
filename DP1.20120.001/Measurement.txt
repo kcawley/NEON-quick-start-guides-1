@@ -1,0 +1,1 @@
+Benthic macroinvertebrates in rivers, lakes and wadeable streams. This data product includes collection information and field metadata, as well as taxonomy and counts per taxon and per size class.

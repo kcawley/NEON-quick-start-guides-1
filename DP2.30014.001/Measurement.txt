@@ -1,0 +1,1 @@
+Fraction of Photosynthetically active radiation (fPAR) describes the relative quantity of incident solar radiation absorbed by vegetation material by examining photosynthetically active wavelengths (0.4-0.7 microns).

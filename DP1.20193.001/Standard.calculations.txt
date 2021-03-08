@@ -1,0 +1,1 @@
+Standard calculations for determining salt-based discharge can be found in the Appendix (6.1, 6.2) of the NEON User Guide to Reaeration and Salt-based Discharge Sampling included in the data package. The NEON developed package streamQ can also be used to calculate salt-based stream discharge (https://github.com/NEONScience/NEON-stream-discharge).

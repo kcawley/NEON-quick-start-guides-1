@@ -1,0 +1,1 @@
+Each measurement is accompanied by the fields “fieldFilterCondition”, “equipCondition”, “labFilterCondition” and “labFilterDamage” which are used to convey remarks about the health of the sampling equipment, the filter, measurement conditions, and sample/filter health with values from drop-down menus

@@ -1,0 +1,1 @@
+Time rate of change of CO2 concentration (storage component only) over 30 minutes at each measurement level along the vertical tower profile.

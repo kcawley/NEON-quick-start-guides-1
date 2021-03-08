@@ -1,0 +1,1 @@
+totalLipidConcentration is calculated as the sum total of all lipid concentrations measured within a sample.

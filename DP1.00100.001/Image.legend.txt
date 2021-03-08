@@ -1,0 +1,1 @@
+The CSAT3 native coordinate system (modified after Campbell Scientific, 2011).

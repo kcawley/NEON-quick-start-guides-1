@@ -1,0 +1,1 @@
+δ = [(Rsample/Rstandard − 1)] × 1000. where R = H/L. For all NEON stable isotopic data, δ15N values are expressed on the atmospheric N2 scale and δ13C. Values are expressed on the Vienna Pee Dee Belemite scale.

@@ -1,0 +1,1 @@
+Once samples are collected and frozen they are shipped to an external facility for processing. The 16S ribosomal RNA gene is targeted to measure bacteria and archaea while the internally-transcribed spacer (ITS) region is used to measure fungi. 

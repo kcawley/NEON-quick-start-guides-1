@@ -1,0 +1,1 @@
+Barometric pressure above water on-buoy is measured using a digital barometer on the buoy. Measurements represent a point, are made at 0.01667 Hz, and data are published as 1-minute instantaneous measurements and 30-minute averages.

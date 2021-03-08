@@ -1,0 +1,1 @@
+Shortwave and longwave net radiation above water on-buoy, measured in watts per square meter (W/m^2)

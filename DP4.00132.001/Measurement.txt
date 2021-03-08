@@ -1,0 +1,2 @@
+High-resolution bathymetric (underwater) maps are generated for lake and river NEON aquatic sites to provide depth measurements, sediment and substrate characteristics, and the presence/absence, approximate abundance, distribution and size of submerged aquatic flora.
+

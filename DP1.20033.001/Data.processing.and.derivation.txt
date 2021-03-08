@@ -1,0 +1,1 @@
+The first 10 measurements of each burst are discarded to allow the sensor lamp sufficient time to warm up.  Measurements 11-20 are subjected to automated QA/QC tests, including gap, range, step and spike tests.  Measurements which fail these tests are omitted from 15 minute averages. 

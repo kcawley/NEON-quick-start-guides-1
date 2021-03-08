@@ -1,0 +1,1 @@
+A quality report for each flight used in producing the data product, describing weather conditions and other data quality considerations during flight is included with the L1 data download. Also included are uncertainty point clouds in LAZ format and processing quality report PDFs.

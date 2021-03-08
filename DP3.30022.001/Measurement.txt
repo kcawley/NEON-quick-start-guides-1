@@ -1,0 +1,1 @@
+Normalized difference lignin index (NLDI) calculated from remotely sensed airborne hyperspectral data;  distributed in 1 km by 1 km tiles mosaicked from flightlines. NDLI values typically range from 0 to 1.

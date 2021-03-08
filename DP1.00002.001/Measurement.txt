@@ -1,0 +1,2 @@
+Air temperature, available as one- and thirty-minute averages derived from triplicate 1 Hz temperature observations are collected by a single Platinum Resistance Thermometer (PRT).
+

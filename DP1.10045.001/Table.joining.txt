@@ -1,0 +1,3 @@
+Other data products measuring components of aboveground net primary productivity (ANPP) including Woody vegetation structure (DP1.10098.001), Litterfall and fine woody debris (NEON.DP1.10033), herbaceous clip harvest (NEON.DP1.10023), coarse downed wood log surveys (NEON.DP1.10010), and coarse downed wood bulk density (NEON.DP1.10014) may be joined to woody vegetation structure data via the namedLocation (plotID) field.
+
+vst_perplotperyear and nst_perindividual records may be joined or grouped based on namedLocation and eventID

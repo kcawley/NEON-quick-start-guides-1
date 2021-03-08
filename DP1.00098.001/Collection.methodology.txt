@@ -1,0 +1,1 @@
+Relative humidity and temperature are measured using a humidity and temperature probe installed at the top of the tower infrastructure, aquatic site meteorological stations, and in the soil array. Measurements represent a point at the sensor's location, are made at a frequency of 1 Hz, and data are published as 1-minute and 30-minute averages.

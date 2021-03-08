@@ -1,0 +1,2 @@
+Calibration coefficients are applied to the 1 minute temperature measurements and then plausibility tests and signal de-spiking are then applied to the data streams. 30 minute averages are then produced with accompanying descriptive statistics and quality flags.
+

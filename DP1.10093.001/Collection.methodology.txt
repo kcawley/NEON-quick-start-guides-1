@@ -1,0 +1,1 @@
+Ticks are sampled by dragging or flagging a 1m^2 cloth around the perimeter of a 40 by 40m plot. Ticks are subsequently separated by life stage, counted and identified by an expert taxonomist.

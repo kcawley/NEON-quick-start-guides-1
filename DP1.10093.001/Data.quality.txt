@@ -1,0 +1,1 @@
+Data is contstrained at point of entry through the use of dropdown menus and value limitations in the entry software. External lab quality assurance data for pathogen testing is available in the expanded package.

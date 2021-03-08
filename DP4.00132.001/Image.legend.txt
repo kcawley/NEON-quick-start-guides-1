@@ -1,0 +1,2 @@
+Figure 1 illustrates the measurment collection pattern conducted to obtain bathymetric maps for both lake (a) and river (b) sites.
+

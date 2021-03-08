@@ -1,0 +1,1 @@
+Raw discrete LiDAR data are processed to projected and corrected L1 LAZ point clouds in their original flight lines.

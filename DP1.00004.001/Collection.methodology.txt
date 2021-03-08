@@ -1,0 +1,1 @@
+Barometric pressure is measured using a digital barometer at the aquatic meteorological station and at the tower. The height of the sensor is determined on a site-specific basis. Measurements are representive of a spatial point throughout time and are made at 0.1 Hz. Data are published as 1- and 30- minute temporally averaged data products.

@@ -1,0 +1,1 @@
+Water quality parameters includes specific conductance, dissolved oxygen, pH, chlorophyll a, turbidity and fluorecent dissolved organic matter (fDOM). 

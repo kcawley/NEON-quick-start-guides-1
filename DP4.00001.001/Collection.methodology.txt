@@ -1,0 +1,1 @@
+Summary Weather Statistics is measured using a [general sensor type; not make/model in case sensor changes] [in/on/at] [general measurement location]. Measurements represent [spatial representation; e.g., a point, a 10 cm high integrative volume], are made at [L0 sampling frequency], and data are published in [L1 data frequency; often 1- and 30-minute averaging intervals].

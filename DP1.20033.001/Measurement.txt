@@ -1,0 +1,2 @@
+Fifteen minute averages of nitrogen as nitrate (NO3-N) in surface water in units of uM.
+

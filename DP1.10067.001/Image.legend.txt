@@ -1,0 +1,1 @@
+Diagram showing soil core location within a plot. Sampling is temporally and spatially co-located with aboveground biomass sampling, which occurs in the same sampling cell as belowground biomass sampling.

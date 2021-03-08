@@ -1,0 +1,1 @@
+Discharge data is quality checked to ensure the location values are correct and valid NEON sites. It is also checked to ensure that the distance along the transect increases with each new sampling point. Finally, the data is checked to ensure the velocity measurements contain valid depth values

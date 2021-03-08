@@ -1,0 +1,2 @@
+Extractable inorganic nitrogen (N) from initial and incubated cores, can be used to
+calculated net N mineralization and nitrification rates

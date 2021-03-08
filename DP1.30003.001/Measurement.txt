@@ -1,0 +1,1 @@
+Discrete return LiDAR point cloud contains coordinate locations for each laser return of the underlying sampled surface presented in a three-dimensional (x,y,z), orthorectified and unclassified LAS format. L1 LiDAR point clouds are distributed in their original flight lines with one flight line per file. 

@@ -1,0 +1,1 @@
+Shotgun metagenomic DNA sequence data and sample processing metadata for surface water microbes.

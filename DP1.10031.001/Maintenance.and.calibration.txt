@@ -1,0 +1,1 @@
+For the C and N data, Primary reference materials are used to calibrate each EA-IRMS run and secondary reference materials are analyzed in order to gauge run acceptability.

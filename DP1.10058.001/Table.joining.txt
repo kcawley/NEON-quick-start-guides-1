@@ -1,0 +1,1 @@
+namedLocation and taxonID from div_voucher and div_geneticarchive to plant presence and percent cover as well as to Woody plant vegetation structure (DP1.10098.001) and Plant phenology observations(DP1.10055.001), and plant foliar physical properties(DP1.10026.001)

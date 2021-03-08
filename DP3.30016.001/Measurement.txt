@@ -1,0 +1,1 @@
+The total mass of all above ground organic matter per unit area from remotely sensed hyperspectral data. Data are distributed in GeoTiff raster format in 1 km by 1 km tiles which include the Easting and Northing coordinates (in that order) of their southwest corner in their file names.

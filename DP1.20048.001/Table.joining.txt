@@ -1,0 +1,1 @@
+This data product can be joined to Level 4 data products Stream Discharge Rating Curve and Continuous Stream Discharge by siteID.

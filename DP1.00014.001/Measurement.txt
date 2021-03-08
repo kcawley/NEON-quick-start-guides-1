@@ -1,0 +1,1 @@
+Total, direct, and diffuse radiation in watts per square meter (W/m^2)

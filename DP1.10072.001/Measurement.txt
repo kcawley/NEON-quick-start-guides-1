@@ -1,0 +1,1 @@
+Mark-recapture, demographic, and size data are all collected from small mammals in the order Rodentia (<600grams) using box trapping. Specimen are identified to species and assigned a unique identifier. Where applicable, ear tissue, blood, fecal, hair, and whisker samples are collected

@@ -1,0 +1,1 @@
+earSampleID ties specific samples and metadata from Small Mammal box Trapping to Small Mammal DNA barcode data product. Present in the mam_perTrapNight table

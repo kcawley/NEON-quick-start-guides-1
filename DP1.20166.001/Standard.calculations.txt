@@ -1,0 +1,8 @@
+Step 1: Convert to algal cells per L and correct for preservative volume when algalParameterUnit = countPerBottle (cells/L)
+Step 2: Correct for benthicArea using calculation from Step 1 (cells/m2)
+
+NEON suggests using algalParameter = 'cell density' for the calculations
+ above. See DPUG for detailed descriptions of algalParameters.
+
+samplingImpractical records in the fieldData table indicate instances
+where samples could not be collected due to environmental conditions.

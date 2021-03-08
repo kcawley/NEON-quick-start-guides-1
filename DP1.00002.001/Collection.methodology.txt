@@ -1,0 +1,1 @@
+These PRTs are similar to those used for triple aspirated air temperature. However, single aspirated air temperature PRTs can be found at each boom arm along NEON tower infrastructure and at NEON aquatic sites with micromet stations. PRTs use a known linear relationship between electrical resistances of platinum and ambient temperature to determine temperature.

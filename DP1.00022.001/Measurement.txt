@@ -1,0 +1,1 @@
+Total shortwave radiation in watts per square meter (W/m^2)

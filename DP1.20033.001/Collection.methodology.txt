@@ -1,0 +1,1 @@
+Measured using a SeaBird SUNA located at the S2 (downstream) location of wadeable streams and on the buoy at lakes and rives sites.  A burst of 20 measurements are collected every 15 minutes.  Measurements 11-20 are used to calculate the 15 minute average.

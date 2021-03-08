@@ -1,0 +1,1 @@
+Lidar algorithms identify targets in the returned signal back to receiver by calculating the time elapsed between pulse generation and returned signal, which is then used to determine the range. GPS and IMU data are then used to determine the ground vectors of each returned signal.

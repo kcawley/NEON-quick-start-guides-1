@@ -1,0 +1,1 @@
+Tick identification be joined to tick collection by the SampleID field (see DP1.10093.001 table tab)

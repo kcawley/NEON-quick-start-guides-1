@@ -1,0 +1,2 @@
+This data product provides measurements that quantify stream channel geomorphology, stream bed composition, and delineation of biological habitats. Those measurements include raw survey data, maps, shapefiles, and metric tables. Topography, habitat delineation, and geomorphic features are mapped using a robotic total station along the stream thalweg and at designated transects, where channel cross-sectional area is measured.
+

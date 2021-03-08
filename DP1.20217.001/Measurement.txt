@@ -1,0 +1,1 @@
+Temperature of groundwater in degrees Celcius (˚C)

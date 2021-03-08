@@ -1,0 +1,1 @@
+Normalized difference lignin index (NDLI) calculated from remotely sensed airborne hyperspectral data; data are provided in individual flightlines. NDLI values typically range from 0 to 1.

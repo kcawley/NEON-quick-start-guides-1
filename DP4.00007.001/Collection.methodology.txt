@@ -1,0 +1,1 @@
+Momentum flux is measured at the tower top using a sonic anemometer. Measurements are representative of a spatial point in time, are made at 20 Hz, and data are published in 30-minute averaging intervals.

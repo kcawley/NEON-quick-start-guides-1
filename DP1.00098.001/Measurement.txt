@@ -1,0 +1,1 @@
+Relative humidity (%), temperature (degrees Celsius), and dew or frost point temperature (degrees Celsius)

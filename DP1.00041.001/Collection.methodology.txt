@@ -1,0 +1,2 @@
+Soil temperature is measured using a platinum resistance thermometer in all five sensor-based soil plots. Nominal installation depths include 2, 6, 16, and 26 cm (±1 cm) with deeper depths determined on a site- and soil plot-specific basis. Measurements represent a point, are made at 0.1 Hz (10 seconds) and data are published in 1- and 30-minute averaging intervals.
+

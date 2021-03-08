@@ -1,0 +1,1 @@
+Example of a distributed base plot with current beetle pitfall sampling location. 

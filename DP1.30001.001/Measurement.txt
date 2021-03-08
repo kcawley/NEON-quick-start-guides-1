@@ -1,0 +1,1 @@
+The waveform product saves the continuously received relative signal intensity over time of each outgoing laser pulse of the lidar, georeferenced and provided by individual flightline in a binary NEON format.

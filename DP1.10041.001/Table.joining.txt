@@ -1,0 +1,1 @@
+The mosquito pathogen results table can be joined to the mosquito pathogen pooling table with testingVialID.  The pathogen pooling table can be linked to the identification table with the testingID. 

@@ -1,0 +1,1 @@
+A handheld imaging spectroradiometer form Analytical Spectral Devices (ASD) is used to collect measurements either in the field or on pre-collected samples in the laboratory. The instrument is calibrated at the beginning of the season using readings taken from an ASD calibration spectralon panel.

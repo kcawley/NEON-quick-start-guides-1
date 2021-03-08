@@ -1,0 +1,1 @@
+Data quality is controlled at the point of entry by the use of dropdown menus to restrict value inputs. Field staff also review the data after recording it for plausibility based on site knowledge. 

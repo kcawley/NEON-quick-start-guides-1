@@ -1,0 +1,1 @@
+Orthorectified images have location uncertainties of below 0.5m, or 5 pixels, previously calculated with the L1 product. No numerical error or accuracy information is provided specifically with this product

@@ -1,0 +1,1 @@
+Water temperature in degrees Celsius (°C).　

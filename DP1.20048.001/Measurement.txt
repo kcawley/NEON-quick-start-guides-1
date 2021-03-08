@@ -1,0 +1,1 @@
+Staff gauge height and discharge data are measured at each stream site regularly throughout the water year. During each discharge measurement water depth (m) and velocity (L/s) are measured and associated with a gauge height.   

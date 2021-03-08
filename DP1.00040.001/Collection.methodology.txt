@@ -1,0 +1,1 @@
+At each terrestrial site, self-calibrating soil heat flux plates are placed in three of the five soil plots within the TIS soil array. The sensor is installed a few centimeters below the soil surface. Measurements represent a point, are made at 0.1Hz, and published in 1- and 30-minute averaging intervals.

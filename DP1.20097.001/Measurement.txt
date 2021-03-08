@@ -1,0 +1,1 @@
+Concentrations of dissolved gases including carbon dioxide, methane, and nitrous oxide (ppmv) from reference air and water equilibrated air. Calculations using Henry's law, such as those in the neonDissGas R package, are needed to determine gas concentrations in surface water.  

@@ -1,0 +1,2 @@
+Table sls_soilStableIsotopes can be joined with sls_bgcSubsampling by the cnSampleID. One record is expected per cnSampleID x analyticalRepNumber. Table sls_soilChemistry is expected to have one record per cnSampleID x analyticalRepNumber and can be joined to sls_soilStableIsotopes by the cnSampleID. The summary table bgc_CNiso_externalSummary is expected to have one record per laboratoryName x analyte x sampleType x lab-
+SpecificStartDate: these variables exist in the isotope and chemistry tables and can be used to associate sample data with relevant uncertainty values.

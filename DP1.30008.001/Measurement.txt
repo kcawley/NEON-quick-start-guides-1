@@ -1,0 +1,1 @@
+The solar energy reflected off of the earth’s surface in the 0.4 to 2.5 micron wavelength range without atmospheric corrections being applied. Units are µW/cm^2/sr/nm.

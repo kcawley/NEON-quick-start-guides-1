@@ -1,0 +1,1 @@
+Shotgun metagenomic sequence data and metadata for soil microbial samples.

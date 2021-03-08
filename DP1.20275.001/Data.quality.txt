@@ -1,0 +1,1 @@
+The dataQF field in each record is a quality flag for known issues applying to the record, added by NEON Science upon data review.

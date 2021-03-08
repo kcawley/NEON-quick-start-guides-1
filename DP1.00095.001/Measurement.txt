@@ -1,0 +1,1 @@
+Soil CO2 concentration at given depths in parts per million (ppm)

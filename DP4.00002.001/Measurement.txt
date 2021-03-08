@@ -1,0 +1,1 @@
+Sensible heat flux is estimated based on the eddy covariance technique using a sonic anemometer to measure vertical winds and air temperature and tower profile measurements of air temperature

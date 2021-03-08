@@ -1,0 +1,1 @@
+Sun photometer measurements of direct solar radiation are used to calculate the columnar aerosol optical depth. This is used to compute columnar water vapor and estimate the aerosol size using the Angstrom parameter relationship. 

@@ -1,0 +1,2 @@
+10% of samples are re-weighed by a different technician to ensure weights are correct. The massSampleID field is unique to each subsample, but duplicates will exist if that subsample was reweighed for a quality check.  This is indicated by a Y in the qaDryMass field. *Records where qaDryMass=Y should be ignored to avoid double counting sample weights if data are being used to calculate litter production at any scale.*
+

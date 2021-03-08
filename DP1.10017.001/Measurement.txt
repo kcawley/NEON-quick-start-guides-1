@@ -1,0 +1,1 @@
+180 degree images and field-collected image metadata used to make ground-based estimations of Leaf Area Index (LAI) and/or Plant Area Index (PAI) at the plot level.

@@ -1,0 +1,1 @@
+The means, minima, maxima, variances, and standard errors of 2D wind speed, triple aspirated air temperature, barometric pressure, primary precipitation, shortwave radiation, and relative humidity. 

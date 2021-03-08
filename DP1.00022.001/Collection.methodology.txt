@@ -1,0 +1,1 @@
+Total shortwave radiation is measured using a pyranometer at the tower top at core, terrestrial sites. Measurements are repesentative of a spatial point throughout time and are made at 1 Hz. Data are published as 1- and 30- minute temporally averaged data products.

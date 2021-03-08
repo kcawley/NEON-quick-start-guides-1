@@ -1,0 +1,1 @@
+This data product provides the results for benthic microbe high-throughput DNA sequencing of bacterial and archaeal 16S ribosomal RNA marker gene and fungal ITS region for taxonomic analysis. Metadata associated with sample processing and QAQC are also reported.

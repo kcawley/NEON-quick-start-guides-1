@@ -1,0 +1,1 @@
+The salt-based stream discharge data product contains the field and external laboratory data from salt-tracer injections necessary to calculate salt-based stream discharge. Salt-tracer data may be associated with reaeration experiments, or may be from salt-slugs performed for discharge outside of a reaeration experiment.

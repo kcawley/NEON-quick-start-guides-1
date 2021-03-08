@@ -1,0 +1,1 @@
+Secchi Depth: depth to which light penetrates the water column (m)

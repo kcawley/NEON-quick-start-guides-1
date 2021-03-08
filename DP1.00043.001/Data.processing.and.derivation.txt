@@ -1,0 +1,1 @@
+All Raw data (i.e. .K7 files) collected from the sun photometer is transmitted to AERONET for porcessing.  NEON then receives a subset of processed data products.  NEON defined the .K7 files as NEON L0 data products and the AERONET raw data files are equivalent to NEON L1 dta products.  All data processing is completed by AERONET.

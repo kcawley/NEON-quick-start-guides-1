@@ -1,0 +1,1 @@
+Bundled into DP4.00200 , not availble as a stand alone download. based on the eddy-covariance technique using high frequeny sonic anemometer measurements of vertical wind velocity, and an infrared gas analyzer measurments of water vaper calculate turbulent flux, and tower profile measurements of water vapor to calculate storage flux.

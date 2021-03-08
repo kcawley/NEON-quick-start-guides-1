@@ -1,0 +1,1 @@
+The data goes through multiple QA/QC tests. First is a plausibility test and quailty flag are genereated for each test. The flow rate flag makes sure the exhaust from the DustTrak is adequate.  Measurement validity interprets the data by comparing different PM size factions with L0 data.  If any of the datum raises a quality flag it will not be used to create L1 DP.

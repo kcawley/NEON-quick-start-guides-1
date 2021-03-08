@@ -1,0 +1,1 @@
+One second measurements are used to generate 60 second mean values and published in 2- and 30-minute averages. 

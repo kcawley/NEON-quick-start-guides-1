@@ -1,0 +1,1 @@
+NEON plot divided into clip cells with locations of root core sampling

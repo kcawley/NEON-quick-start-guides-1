@@ -1,0 +1,1 @@
+Soil CO2 concentrations are measured using diffusion-based nondispersive infrared sensors at three depths in each soil plot. The nominal depth of the shallowest sensor is 2 cm, with the other sensors usually <20 cm deep. Measurements represent a point, are made at 0.1 Hz, and data are published as 1- and 30-min averages.

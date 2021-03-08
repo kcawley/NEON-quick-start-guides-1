@@ -1,0 +1,1 @@
+Records of ecologically notable events and land management activities that could have a potential effect on NEON data products. Data include: date, location, type, and a quantified extent of the event when applicable

@@ -1,0 +1,1 @@
+Leaf Area Index (LAI) from remotely sensed data; data are provided by flightline. LAI values typically range from 0 to 10 or higher in very dense forests.

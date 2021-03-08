@@ -1,0 +1,1 @@
+Presence or absence of a thermocline calculated by the mobile app. The thermocline occurs where the rate of decrease in temperature with increasing depth is greatest (>1˚C per  1.0 m change in depth)

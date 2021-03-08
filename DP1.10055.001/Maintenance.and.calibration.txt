@@ -1,0 +1,3 @@
+Indivuduals that become unsuitable (due to death, disease or infestation, or other factors) may be dropped from observation. A replacement of the same species is selected and given a new tag ID.
+
+

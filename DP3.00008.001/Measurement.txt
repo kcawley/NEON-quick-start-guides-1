@@ -1,0 +1,1 @@
+Time rate of change of temperature (storage component only) over 30 min, spatially interpolated along the vertical tower profile.

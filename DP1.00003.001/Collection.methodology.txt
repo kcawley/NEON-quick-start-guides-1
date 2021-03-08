@@ -1,0 +1,2 @@
+Six components are used to generate triple aspirated air temperature: a snout heater, a turbine, one aspirated shield fan, and three PRTs. These PRTs can be found at the top of NEON tower infrastructure. PRTs use a known linear relationship between electrical resistances of platinum and ambient temperature to determine temperature.
+

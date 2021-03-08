@@ -1,0 +1,1 @@
+Radiation flux at wavelengths between 400-700 nm is measured using an upward-facing Photosynthetically Active Radiation (PAR) sensor located under the water on both lake and river buoys, and littoral zone of lakes. Measurements represent a point, are made at 1 Hz, and data are published in one- and thirty-minute averaging intervals.

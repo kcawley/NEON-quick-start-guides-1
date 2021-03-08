@@ -1,0 +1,1 @@
+Conductivity of groundwater is measured using vented pressure transducers in groundwater wells at wadeable stream, river, and lake sites. Measurements spatially represent a point and are made at 0.00333 Hz (every 5 minutes). Data are published as instantaneous five-minute readings and thirty-minute averages.

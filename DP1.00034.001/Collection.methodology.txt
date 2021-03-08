@@ -1,0 +1,1 @@
+CO2 concentration - turbulent is measured using a sonic anemometer at the tower top. Measurements are representative of a spatial point in time and are made at 20 Hz. Data are published in 1- and 30-minute temporally averaged data products.

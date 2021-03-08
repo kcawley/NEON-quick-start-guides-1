@@ -1,0 +1,1 @@
+All tables in this data product can be joined by the dnaSampleID. The metagenomics tables can be joined among other surface water data streams by linking the geneticSampleID in table mms_swDnaExtraction to the geneticSampleID in table mms_fieldSurfaceMicrobes of this data product, and then finding the associated sampleID to link to other measurements.

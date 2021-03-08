@@ -1,0 +1,1 @@
+Surface temperature is measured using a platinum resistance thermometer in lakes, wadeable and non-wadeable streams. Measurements represent a point, are made at 1Hz (1 per second), and data are published in one-, five-, and thirty-minute averaging intervals. 

@@ -1,0 +1,1 @@
+1 km by 1 km spatial tiles of 5 standard spectral indices (MSI, NDII, NDWI, NMDI, and WBI) known to be useful proxies of canopy water content, mosaicked from individual flightlines. Valid data ranges vary across the indices and are detailed in the product ATBD.

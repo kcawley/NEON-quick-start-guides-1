@@ -1,0 +1,1 @@
+Tables sls_soilCoreCollection, sls_soilMoisture, and sls_soilpH, and sls_bgcSubsampling may be joined by the sampleID. sls_metagenomicsPooling may be joined by first splitting up the genomicsPooledIDList into separate sampleID's, then joining with the other tables.

@@ -1,0 +1,1 @@
+Ground surface cover from high resolution photos that record red, green, and blue visible light from sunlight reflected off of the Earth’s surface. The combination of these bands produces a full color image of the ground.  The images are uncalibrated and are unitless.

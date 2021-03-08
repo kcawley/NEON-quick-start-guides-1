@@ -1,0 +1,1 @@
+Volumetric water content (cm^3/cm^3) and salinity (unitless index) of the soil

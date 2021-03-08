@@ -1,0 +1,1 @@
+Canopy xanthophyll Photochemical Reflectance Index (PRI) from remotely sensed data; data are provided by flightline. PRI values typically range from -1 to 1.

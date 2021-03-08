@@ -1,0 +1,1 @@
+NEON Distributed Plot showing the location and spacing of DHP collection points relative to plot center. Spacing and number of points is the same in NEON Tower Plots, regardless of Tower Plot size.

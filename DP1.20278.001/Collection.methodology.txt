@@ -1,0 +1,1 @@
+Samples are collected, minimally processed, and frozen on dry ice in the field. After intermediate storage in ultra-low temperature freezers, they are shipped to an external laboratory which uses two targeted Quantitative Polymerase Chain Reaction (qPCR) analysis runs to produce the abundance estimates for: 1) bacteria and archaea (using 16S rRNA), 2) fungi (using ITS rRNA).

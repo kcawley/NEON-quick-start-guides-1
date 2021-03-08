@@ -1,0 +1,1 @@
+The number of photons within the visible spectrum (between 400 to 700 nm) in micromoles per square meter per second (μmol/s/m^2)

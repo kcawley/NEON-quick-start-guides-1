@@ -1,0 +1,3 @@
+Litter is collected in elevated 0.5m2 mesh traps; fine woody debris is collected in 0.5x3m ground traps in the tower airshed. Sites deploy either 1 or 2 pairs of elevated and ground traps at plots with qualifying vegetaiton. Samples from elevated traps are collected up to 13 times a year, schedule deterimined by ecosystem. Sampling duration is reported in the data as daysOfTrapping.  Ground traps are collected once per year. Field samples are sorted to functional group, dried, and weighed to the nearest 0.01g (samples <0.01 g recorded as 0.005g). Once every 5 years, leaf and needle subsamples from one bout are further processed by an external lab for C, N, and Lignin.
+
+

@@ -1,0 +1,1 @@
+The NEON developed package neonDissGas can be used to format data and calculate dissolved gas concentrations in surface water (https://github.com/NEONScience/NEON-dissolved-gas).
