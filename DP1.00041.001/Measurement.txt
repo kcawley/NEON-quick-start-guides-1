@@ -1,1 +1,2 @@
+Temperature of soil in degrees Celsius.
 
