@@ -1,2 +1,2 @@
-Air temperature, available as one- and thirty-minute averages derived from triplicate 1 Hz temperature observations are collected by 3 Platinum Resistance Thermometers (PRTs).
+Air temperature, available as one- and thirty-minute averages derived from triplicate 1 Hz temperature observations collected by 3 Platinum Resistance Thermometers (PRTs).
 

@@ -1,1 +1,1 @@
-Primary precipitation, secondary precipitation, ground-level precipitation(throughfall), and bulk precipitation
+Precipitation in millimeters
