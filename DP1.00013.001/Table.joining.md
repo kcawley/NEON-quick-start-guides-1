@@ -1,7 +1,7 @@
-|table 1|table 2|join by field(s)|
-|-----------------|---------------------|--------------------|
-|wdi_collection|wdi_collectionIso|isoSubsampleID|
-|wdi_collection|wdi_collectionIsoTest|isoTestSubsampleID|
-|wdi_collection|wdp_sensor|setDate, collectDate|
-|wdi_collectionIso|wdp_chemLab|sampleID|
-|wdi_collectionIso|wdp_collectionChem|sampleID|
+|table 1|table 2|join by field table 1|join by field table 2|
+|-----------------|---------------------|--------------------|----------------|
+|wdp_collection|wdp_collectionChem|chemSubsampleID|chemSubsampleID|
+|wdp_collection|wdp_chemLab|chemSubsampleID|chemSubsampleID|
+|wdp_collection|wdp_sensor|setDate|date|
+|wdp_collection|wdi_collection|sampleID|sampleID|
+
