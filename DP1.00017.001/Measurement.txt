@@ -1,1 +1,1 @@
-The transport of aerosol (organic and inorganic) dust particles across the Rocky Mountain region.
+Dust content in air, by size fraction, in milligrams per cubic meter.

@@ -1,1 +1,0 @@
-DustTrak collects data, a QA/QC test is then applied.  A new data set is generated when the RH is below 50%.  30-minute and hourly PM medians are calculated to form two data sets which include points used, minimum, maximum, median and median absolute deviation from the median. QA/QC summary is then produced for both data sets.
