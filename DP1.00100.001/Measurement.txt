@@ -1,1 +1,1 @@
-Concentration of H2O in profile; used in calculation of storage terms in eddy covariance calculations of water vapor exchange.
+Wet and dry mole fraction of water vapor (H2O) (mmol mol-1) at the vertical profile measurement levels on the tower.

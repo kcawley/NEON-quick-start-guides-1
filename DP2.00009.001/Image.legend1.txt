@@ -1,0 +1,1 @@
+Location of H2O concentration rate of change Level 2 data products (30- min calculated data) in HDF5 file structure (dp02/data/h2oStor)

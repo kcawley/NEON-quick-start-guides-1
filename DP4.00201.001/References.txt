@@ -1,0 +1,5 @@
+Metzger, S. et al., Eddy-covariance ﬂux measurements with a weight-shift microlight aircraft, Atmos. Meas. Tech., 5, 1699–1717, 2012, doi:10.5194/amt-5-1699-2012
+
+Metzger, S., et al.: eddy4R 0.2. 0: a DevOps model for community-extensible processing and analysis of eddy-covariance data based on R, Git, Docker, and HDF5, Geoscientific Model Development, 10, 3189-3206, doi: 10.5194/gmd-10-3189-2017, 2017.
+
+Smith, D. E., Metzger, S., and Taylor, J. R.: A transparent and transferable framework for tracking quality information in large datasets, PLoS One, 9, e112249, doi:10.1371/journal.pone.0112249, 2014.

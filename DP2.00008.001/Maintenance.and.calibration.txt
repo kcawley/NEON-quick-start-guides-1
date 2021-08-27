@@ -1,1 +1,1 @@
-Preventative maintenance of eddy covariance systems is performed when needed and includes monitoring and revaning pumps, monitoring and swapping gas cylinders, and swapping and cleaning inlets on the tower. Calibration of gas analyzer is performed annually.
+See quick start guide for CO2 concentration – storage (DP1.00099.001)

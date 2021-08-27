@@ -1,1 +1,1 @@
-Time rate of change of H2O concentration (storage component only) over 30 min, spatially interpolated along the vertical tower profile.
+H2O concentration rate of change profile (mmol mol -1 s-1). It is a time rate of change of H2O concentration (storage component only) spatially interpolated along the vertical tower profile.

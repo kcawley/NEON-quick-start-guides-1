@@ -1,1 +1,1 @@
-Flux footprint characteristics are estimated using a footprint model described by Metzger et al. (2012) and measurements taken with a sonic anemometer at the top of the tower. Measurements are representative of a spatial point in time and are made at 20 Hz. Data are published in 30-min temporally averaged data products.
+The flux footprint characteristics data product is estimated based on the eddy covariance technique using a 3D sonic anemometer to measure vertical and horizontal winds at 20 Hz and a footprint model described by Metzger et al. (2012).

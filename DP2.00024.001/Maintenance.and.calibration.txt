@@ -1,1 +1,1 @@
-Preventative maintenance includes cleaning the sensor and is typically performed every two weeks. Sensors are calibrated anually.
+See quick start guide for triple aspirated air temperature (DP1.00003.001) and single aspirated air temperature (DP1.00002.001).

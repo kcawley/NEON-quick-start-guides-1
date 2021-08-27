@@ -1,2 +1,9 @@
+The critical site metadata can be found in the HDF5 file location FILE/SITE “Metadata” tab, when clicking on FILE/SITE code on the top of the HDF5 file, which include ecosystem type (TypeEco), tower location (LatTow, LonTow; °) and elevation (ElevRefeTow; m), tower height (DistZaxsTow; m), canopy height (DistZaxsCnpy; m), number of measurement levels (LvlMeasTow), the height of each measurement levels (DistZaxsLvlMeasTow; m), the transit time for air sample travels from inlet at each measurement levels to analyzer (TimeTube; s), etc.
 
+For more information about using HDF5 files, see our how to view an HDF5 file document.
 
+We suggest the following data use workflow:
+1) Download the desired site-months from the data portal with documentation included.
+2) Review the Eddy-Covariance Data Product Bundle ATBD (NEON.DOC.004571). This document contains definitions of terms used in the HDF5 file, as well as specific HDF5 file paths for each data product. 
+3) To interact with the HDF5 files, we recommend downloading the free HDFView software to become familiar with file contents. For further analysis, we suggest using the neonUtilities::stackEddy() function or the rhdf5 package in R, and the h5py package in Python.
+4) Search the Data Portal News and data product issue log for information regarding known data quality concerns.

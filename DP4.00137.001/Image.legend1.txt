@@ -1,0 +1,1 @@
+Location of latent heat flux Level 4 data product (30- min averaged data) in the HDF5 file structure (dp04/data/fluxH2o)

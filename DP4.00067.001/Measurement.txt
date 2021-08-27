@@ -1,1 +1,1 @@
-Carbon dioxide flux in cubic meters per second (m^3/s)
+Carbon dioxide flux (CO2 flux, μmol m-2 s-1). It is a derived data product.

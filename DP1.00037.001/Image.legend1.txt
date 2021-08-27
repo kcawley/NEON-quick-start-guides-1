@@ -1,0 +1,1 @@
+Location of atmospheric H2O isotopes Level 1 data products (9- and 30- min summarized data for sampling periods and 3- and 30- min summarized data for validation periods) in HDF5 file structure (dp01/data/isoH2o)

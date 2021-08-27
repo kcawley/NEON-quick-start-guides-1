@@ -1,0 +1,1 @@
+Location of H2O concentration – storage Level 1 data products (2- and 30- min summarized data) in HDF5 file structure (dp01/data/h2oStor)

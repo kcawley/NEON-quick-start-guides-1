@@ -1,1 +1,1 @@
-Net surface-atmosphere exchange, see individual data products for specific measurements and their units
+Net surface-atmosphere exchange (NSAE) and its constituent data products, spanning a total of 20+ data products. See individual data products for specific measurements and their units.

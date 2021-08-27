@@ -1,0 +1,1 @@
+Location of AMRS Level 1 data products (1- and 30- min summarized data) in the HDF5 file structure (dp01/data/amrs).

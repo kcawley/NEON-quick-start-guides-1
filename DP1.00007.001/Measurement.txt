@@ -1,1 +1,1 @@
-Three-dimensional windspeed (m/s), direction and temperature (°C) from the tower top.
+Three-dimensional (3D) wind speed (m/s), direction (degrees) and temperature (°C) measured at the tower top.

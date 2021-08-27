@@ -1,1 +1,1 @@
-Latent heat flux is estimated on eddy covariance technique using a sonic anemometer to measure vertical winds and air temperature and tower profile measurements of air temperature
+Latent heat flux (W m-2). Latent heat flux is the flux of heat from the Earth's surface to the atmosphere that is associated with evaporation and transpiration. It is a derived data product.

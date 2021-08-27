@@ -1,1 +1,1 @@
-3D sonic anemometer is calibrated prior to field deployment and recalibrated on an annual basis. Position is monitored by field staff and adjusted as needed. 
+3D sonic anemometer is factory calibrated and validated by NEON Calibration Validation Audit Lab (CVAL) prior to initial field deployment, and validated on an annual basis by NEON CVAL. Sensors that fail to meet requirements are sent for factory calibration. Position information is collected by Attitude and Motion Reference System (AMRS) and monitored and adjusted by field staff as needed.

@@ -1,0 +1,1 @@
+Location of CO2 concentration rate of change profile Level 3 data products (30- min calculated data) in HDF5 file structure (dp03/data/co2Stor)

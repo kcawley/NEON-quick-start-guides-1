@@ -1,1 +1,1 @@
-Measurement of 3D anemometer attitude and motion.
+3D sonic anemometer attitude and motion. The key sub-data products include the three attitude angles (degrees) of the 3D sonic anemometer at the tower top.

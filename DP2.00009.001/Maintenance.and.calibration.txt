@@ -1,1 +1,1 @@
-Preventative maintenance includes cleaning the sensor and is typically performed every two weeks. Sensors are calibrated anually.
+See quick start guide for H2O concentration – storage (DP1.00100.001)

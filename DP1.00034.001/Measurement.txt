@@ -1,1 +1,1 @@
-CO2 mole density in mole per cubic meter (mol m/3) and Co2 dry mole fraction 
+CO2 molar density (μmol m-3) and CO2 dry mole fraction (μmol mol-1)

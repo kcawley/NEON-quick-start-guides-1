@@ -1,1 +1,1 @@
-CO2 concentration - storage is measured using a non-dispersive infrared gas analyzer at each measurement level of the tower. Measurements are representative of a spatial point in time and are made at 20 Hz. Data are published in 2- and 30-minute temporally averaged data products.
+Wet and dry mole fraction of CO2 in the air are measured by a slow-response infrared gas analyzer (IRGA) at 1 Hz at the vertical profile measurement levels on the tower. 

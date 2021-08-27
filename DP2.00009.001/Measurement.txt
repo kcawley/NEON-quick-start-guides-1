@@ -1,1 +1,1 @@
-Time rate of change of H2O concentration (storage component only) over 30 minutes at each measurement level along the vertical tower profile.
+Time rate of change of H2O concentration (storage component only, mmol mol -1 s-1) over 30 minutes at each measurement level along the vertical tower profile.

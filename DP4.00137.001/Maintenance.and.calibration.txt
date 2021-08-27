@@ -1,1 +1,1 @@
-Preventative maintenance includes cleaning the sensor and is typically performed every two weeks. Sensors are calibrated anually.
+See quick start guide for 3D wind speed, direction and sonic temperature (DP1.00007.001), H2O concentration – turbulent (DP1.00035.001) and H2O concentration – storage (DP1.00100.001).

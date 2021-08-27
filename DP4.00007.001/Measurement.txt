@@ -1,2 +1,1 @@
-Momentum flux in cubic meter per second (m3 s−1)
-
+Momentum flux as represented by friction velocity (m s−1), commonly referred to as ustar (u*). 

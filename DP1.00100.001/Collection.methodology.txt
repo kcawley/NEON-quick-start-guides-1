@@ -1,1 +1,1 @@
-A suite of sensors, solenoids, and manifods exist within the EC profile assmebly. Using a modified LI-840A sensor measurements will alternate between sampling and fieldvalidation modes.  During sampling the analyzer will measure air samples from different levels on the tower.  During field validation the LI840A will measure known CO2 gas transfer. 
+Wet and dry mole fraction of H2O in the air are measured by a slow-response infrared gas analyzer (IRGA) at 1 Hz at the vertical profile measurement levels on the tower.

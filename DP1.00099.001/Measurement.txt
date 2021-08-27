@@ -1,1 +1,1 @@
-CO2 dry mole fraction and CO2 wet mole fraction
+Wet and dry mole fraction of CO2 (μmol mol-1) at the vertical profile measurement levels on the tower.

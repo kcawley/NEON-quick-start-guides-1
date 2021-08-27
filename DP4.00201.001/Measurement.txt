@@ -1,1 +1,1 @@
-Flux footprint characteristics determines where on the ground surface emissions originate from
+Flux footprint characteristics is a determination of where on the ground surface emissions of the scalars originate from. It contains a series of statistical sub-products of angles (degrees), wind speeds (m s-1) and distance (m). It is a derived data product.

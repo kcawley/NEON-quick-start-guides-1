@@ -1,1 +1,1 @@
-A suite of sensors, solenoids, and manifods exist within the EC profile assmebly. Using a modified LI-840A sensor measurements will alternate between sampling and fieldvalidation modes.  During sampling the analyzer will measure air samples from different levels on the tower.  During field validation the LI840A will measure known CO2 gas transfer. 
+The H2O concentration rate of change profile is the time rate of change of H2O concentration vertically interpolated along the height of the tower. The resolved vertical resolution is 0.1 m and temporal resolution is 30 minutes.

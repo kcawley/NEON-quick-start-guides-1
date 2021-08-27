@@ -1,1 +1,1 @@
-Time rate of change of CO2 concentration (storage component only) over 30 min, spatially interpolated along the vertical tower profile.
+CO2 concentration rate of change profile (μmol mol-1 s-1). It is a time rate of change of CO2 concentration (storage component only) spatially interpolated along the vertical tower profile.

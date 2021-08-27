@@ -1,1 +1,1 @@
-
+Time rate of change of air temperature is a derived data product. It is calculated the rate of change of air temperature over 30- min periods at each vertical profile measurement levels on the tower.

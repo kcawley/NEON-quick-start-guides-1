@@ -1,1 +1,1 @@
-
+The temperature rate of change profile is the time rate of change of temperature vertically interpolated along the height of the tower. The resolved vertical resolution is 0.1 m and temporal resolution is 30 minutes.

@@ -1,1 +1,1 @@
-Concentration of H2O at the top of the tower; used in calculation of turbulent terms in eddy covariance calculations of water vapor exchange.
+H2O molar density (mmol m-3) and H2O dry mole fraction (mmol mol-1)

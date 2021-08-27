@@ -1,0 +1,1 @@
+Location of atmospheric CO2 isotopes Level 1 data products (9- and 30- min summarized data) in HDF5 file structure (dp01/data/isoCo2)

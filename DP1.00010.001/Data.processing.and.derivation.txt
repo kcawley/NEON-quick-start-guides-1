@@ -1,1 +1,4 @@
+Data is processed using the eddy4R codebase (Metzger et al. 2017). For a detailed description of data product derivation, please see the Eddy-Covariance Data Product Bundle ATBD (NEON.DOC.004571).
+
+3D sonic anemometer attitude and motion data product is bundled into DP4.00200, not available as a standalone download, and is published in 1- and 30-minute averaging intervals.
 
