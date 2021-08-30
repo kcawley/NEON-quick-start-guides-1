@@ -1,1 +1,1 @@
-Photosynthetically active radiation (quantum line) is measured using a 1-meter long radiation sensor at deployed in three of the five soil plots.  Measurements represent a point, are made at 1 Hz, and data are published in 1- and 30-minute averaging intervals.
+Photosynthetically active radiation (quantum line) is measured using a 1-meter long radiation sensor deployed in three of the five soil plots.  Measurements are made at 1 Hz, and data are published in 1- and 30-minute averaging intervals.

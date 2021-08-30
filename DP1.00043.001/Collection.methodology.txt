@@ -1,6 +1,2 @@
 The NEON Cimel spectral photometer is model CE-318N. It carries out sun and sky radiance
-measurements on several bands (with filters for the 1020, 870, 675, 440, 936, 500, 340, and 380 nm
-wavelengths with the 1.6 μm spectral channel, but without polarized channels). A sensor head fitted
-with 25 cm collimators is attached to a 40 cm robot base which systematically points the sensor head at
-the sun according to a preprogrammed routine. The robot mounted sensor head is parked and pointed
-near-nadir when idle to prevent deterioration of the optical windows from rain and foreign particles.  NEON also collects and sends data to AERONET which is processed and returned to NEON as various data packages. Most data is formated as individual .K7 files.
+measurements on several bands (with filters for the 1020, 870, 675, 440, 936, 500, 340, and 380 nm wavelengths with the 1.6 μm spectral channel, but without polarized channels). A sensor head fitted with 25 cm collimators is attached to a 40 cm robot base which systematically points the sensor head at the sun according to a preprogrammed routine. The robot mounted sensor head is parked and pointed near-nadir when idle to prevent deterioration of the optical windows from rain and foreign particles. Data are transmitted from NEON to AERONET, and AERONET hosts a number of additional data products derived from this instrument.
