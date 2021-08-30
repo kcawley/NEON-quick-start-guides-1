@@ -1,1 +1,1 @@
-Physical properties of soil horizons from the megapit sampling location during site construction
+Physical and chemical properties of soil horizons derived from the megapit sampling location during site construction. Includes data on the soil taxonomy, horizon names, horizon depths, bulk density, texture in the <2 mm soil fraction, coarse fragments for each soil horizon, pH, the total content of a range of elements, and electrical conductivity in the <2mm soil fraction for each horizon.
