@@ -1,1 +1,2 @@
+Replicate samples analyzed separately for quality assurance are indicated by the qaDryMass field in the hbp_massdata table.
 

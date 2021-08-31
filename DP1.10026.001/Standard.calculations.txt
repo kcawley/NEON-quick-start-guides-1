@@ -1,1 +1,3 @@
+Analytical replicates, indicated by the field analyticalRepNumber, should typically be averaged to determine a single value per sample per analyte, before proceeding with further analyses.
 
+The vst_mappingandtagging table is provided in the expanded package in this data product, for convenience in finding the locations of sampled plants. The geolocations enable connection to remote sensing data for the same locations; an example workflow for bringing these data together using the neonUtilities package is described in a tutorial: https://www.neonscience.org/resources/learning-hub/tutorials/tree-heights-veg-structure-chm

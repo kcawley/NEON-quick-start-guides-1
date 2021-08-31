@@ -1,1 +1,3 @@
+Analytical replicates, indicated by the qaDryMass field, should typically be averaged to a single value per sample per functional group, before proceeding with further analyses.
 
+Mass reported in the hbp_massdata table is total mass of a given sample; to calculate biomass per unit area, sum the masses of each functional group within a clip strip and divide by the area of the clip strip.

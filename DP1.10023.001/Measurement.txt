@@ -1,1 +1,1 @@
-Herbaceous plant biomass by plant function groups.
+Herbaceous plant biomass in grams, by plant function groups.
