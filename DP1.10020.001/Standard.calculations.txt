@@ -1,1 +1,1 @@
-
+Data downloadable from the NEON data portal include only the metadata for this data product; the sequence data are hosted by BOLD. Use the links on the Product Details page on the NEON data portal to access the relevant data on the BOLD portal.

@@ -1,1 +1,1 @@
- N/A
+NEON DHPs require processing to generate estimates of Leaf Area Index (LAI) or Plant Area Index (PAI). Processing steps may need to include exposure optimization in the 'shadow' or 'dark' region of the histogram. The software Can-Eye can be used to analyze NEON DHPs for LAI and PAI.
