@@ -1,1 +1,1 @@
-The dataQF field in each record is a quality flag for known issues applying to the record. The following dataQF option can be selected: "legacyData" - Data recorded using a paper-based workflow that did not implement the full suite of quality control features associated with the interactive digital workflow.
+For a subset of collected samples, replicate samples are collected for quality assurance purposes. Replicates are indicated by the qaSample field in the cdw_densitydisk table.

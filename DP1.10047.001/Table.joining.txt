@@ -1,1 +1,0 @@
-Tables spc_bulkDensity, spc_particleSize, and spc_perHorizon may be joined by the horizonID. The field table spc_perPlot can be joined to the spc_perHorizon table by the pitID.

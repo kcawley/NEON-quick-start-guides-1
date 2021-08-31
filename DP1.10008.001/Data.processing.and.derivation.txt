@@ -1,1 +1,0 @@
-Self contained data product.  Site level plot summary, and pedon description.  

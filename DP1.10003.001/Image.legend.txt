@@ -1,4 +1,0 @@
-Design of the point count grid, consisting of 9
-points separated by a minimum of 250 m. The center
-of the grid is just offset from a Distributed plot (green
-circle).

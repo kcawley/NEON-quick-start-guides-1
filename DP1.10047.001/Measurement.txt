@@ -1,1 +1,1 @@
-Physical properties of a soil core sample including bulk density, particle size, coarse fragments, and taxonomic identification of soil horizons.
+Physical and chemical properties of a soil core sample including bulk density, particle size, coarse fragments, taxonomic identification of soil horizons, C, N, P, major elements, and metals. Executed by the Soil Science Division of the NRCS, in partnership with the USDA Agriculture Research Service (ARS).

@@ -1,2 +1,1 @@
-
-The dataQF field in each record is a quality flag for known issues applying to the record. The following dataQF options can be selected: 1) "legacyData" - Data recorded using a paper-based workflow that did not implement the full suite of quality control features associated with the interactive digital workflow, 2) "decayClass NotRecorded" - Records collected with no decayClass.
+The dataQF field in each record is a quality flag for post-collection known issues applying to the record. The following dataQF options can be selected: 1) "legacyData" - Data recorded using a paper-based workflow that did not implement the full suite of quality control features associated with the interactive digital workflow, 2) "decayClass NotRecorded" - Records collected with no decayClass.

@@ -1,1 +1,3 @@
+Data records collected from replicate samples (indicated by the qaSample field) should be averaged before further analysis.
+
 When combined with the coarse downed wood log (CDW) survey data product, which provides an estimate of CDW volume per DST, CDW bulk density data enable calculation of CDW mass per DST, as well as total CDW mass at the site scale.

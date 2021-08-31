@@ -1,1 +1,1 @@
-Bulk Density of downed logs (g cm-3). 
+Bulk density of downed logs (g cm-3). 

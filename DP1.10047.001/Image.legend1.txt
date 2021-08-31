@@ -1,0 +1,1 @@
+Diagram showing the location of reference corners and an example calculation of sample location using distance and bearing measurements.
