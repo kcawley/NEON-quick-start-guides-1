@@ -1,1 +1,1 @@
-The mass of atmospheric particulate matter is measured by a particulate mass analyzer.
+The mass of PM10 atmospheric particulate matter in milligrams.
