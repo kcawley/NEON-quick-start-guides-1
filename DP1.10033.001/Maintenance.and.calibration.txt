@@ -1,2 +1,1 @@
-
 Traps are inspected and serviced or repaired as needed during each collection event. The trapCondition field indicates the state of equipment at the time of collection. Samples are not collected from traps with significant damage.

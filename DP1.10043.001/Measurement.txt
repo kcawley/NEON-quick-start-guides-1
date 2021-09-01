@@ -1,1 +1,1 @@
-CO2 traps are deployed to collect mosquitos which are then sent to an external laboratory to have species and sex identified. 
+Mass, taxonomic identification, and sex of mosquitoes collected in CO2 traps. 

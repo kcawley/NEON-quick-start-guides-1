@@ -1,1 +1,3 @@
+Analytical replicates, indicated by the qaDryMass and analyticalRepNumber fields, should typically be averaged to a single value before proceeding with further analyses.
 
+Litter production per unit area per unit time can be estimated by summing the masses of all functional groups per trap over the desired period of time, and dividing by the collection area of the trap.
