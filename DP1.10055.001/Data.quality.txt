@@ -1,1 +1,1 @@
-Data quality is controlled at the point of entry by the use of dropdown menus to restrict value inputs. Field staff also review the data after recording it for plausibility based on site knowledge. 
+Individuals that become unsuitable for monitoring (due to death, disease or infestation, or other factors) may be dropped from observation. A replacement of the same species is selected and given a new tag ID.

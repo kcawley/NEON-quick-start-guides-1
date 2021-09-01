@@ -1,1 +1,0 @@
-NEON base plot used for foliar sampling

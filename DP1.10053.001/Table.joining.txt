@@ -1,1 +1,0 @@
-Join Plant foliar physical properties with plant foliar stable isotopes using the sampleID or cnSampleID 
