@@ -1,1 +1,0 @@
-rpt2_pathogentesting table can be joined to mam_pertrapnight by earSampleID or bloodSampleID
