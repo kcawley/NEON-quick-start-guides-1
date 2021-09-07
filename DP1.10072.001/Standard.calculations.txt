@@ -1,1 +1,1 @@
-
+Data are collected using standard mark-recapture methods, enabling the use of standard models for estimating population size.
