@@ -1,1 +1,1 @@
-180 degree images and field-collected image metadata that can be used to make ground-based estimations of Leaf Area Index (LAI) and/or Plant Area Index (PAI) at the plot level.
+180 degree digital hemispherical photos and field-collected image metadata that can be used to make ground-based estimations of Leaf Area Index (LAI) and/or Plant Area Index (PAI) at the plot level.
