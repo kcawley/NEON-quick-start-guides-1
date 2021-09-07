@@ -1,1 +1,1 @@
-NA
+Fine root biomass per unit ground area can be estimated by totaling the root mass across all categories for each core, and dividing by the cross-sectional area of the core. Analytical replicates, indicated by the qaDryMass and analyticalRepNumber fields, should typically be averaged before proceeding with other analyses.
