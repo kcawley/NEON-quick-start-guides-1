@@ -1,1 +1,1 @@
-
+The latitude, longitude (referenceLatitude, referenceLongitude; °), and elevation (m) of the tower reference corner are in the sensor positions file (...sensor_positions...csv). Sensor height (zOffset; m) is specified relative to the tower reference corner.
