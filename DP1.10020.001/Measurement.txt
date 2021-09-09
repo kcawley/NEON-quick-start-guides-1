@@ -1,1 +1,1 @@
-Sequence data and taxonomic identifications are available through this data product and the Barcode of Life Database (BOLD). 
+Sequence data and taxonomic identifications of select ground beetles are available through this data product and the Barcode of Life Database (BOLD). 
