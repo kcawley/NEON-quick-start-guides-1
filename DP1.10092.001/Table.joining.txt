@@ -1,2 +1,0 @@
-Tick pathogen table can be joined to tick identification by the subsampleID field (see DP1.10093.001 table tab)
-

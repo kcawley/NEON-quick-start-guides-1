@@ -1,1 +1,1 @@
-Tick abundance data is constrained for quality at point of entry through the use of dropdown menus and other software limits. External lab quality assurance data for pathogen testing is available in the expanded package.
+The sampleCondition field in the tck_pathogen table indicates the condition of the tested sample at the time of pathogen testing. The batchID field can be used to connect the pathogen data to the lab quality assurance data in the tck_pathogenqa table, in the expanded data package.
