@@ -1,1 +1,0 @@
-The sme_microbialBiomass data can be joined to the soil field sampling data using the biomassID in this table and in table sls_soilCoreCollection in the Soil Physical Properties data product. The sme_batchResults table can be joined with the sme_microbialBiomass table by the batchID.

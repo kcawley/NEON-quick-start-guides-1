@@ -1,1 +1,3 @@
 Samples are collected and sub-sampled in the field by horizon type (organic and mineral) to a maximum depth of 30 cm, and are frozen on dry ice in the field. After intermediate storage in ultra-low temperature freezers, they are shipped to an external laboratory which uses two targeted Quantitative Polymerase Chain Reaction (qPCR) analysis runs to produce the abundance estimates for: 1) bacteria and archaea, 2) fungi.
+
+Samples are processed using established qPCR workflows that give estimates of abundance for each microbial group (bacteria/archaea and fungi). The exact qPCR primer sequences used may change over time as improved primers are developed.

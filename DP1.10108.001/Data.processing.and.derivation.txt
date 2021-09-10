@@ -1,1 +1,0 @@
-Sequence data are generated in batches of multiple samples, which are parsed into separate files on a per-sample basis. For bidirectional sequencing runs, 2 sequence files are created per sample, one for each sequencing read direction.
