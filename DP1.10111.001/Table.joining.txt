@@ -1,1 +1,1 @@
-Site event data relates to other data products through siteID and time range.
+Site event data tables can't be directly joined to other data tables, but can be connected to the relevant data products via the spatial location (at the site level or finer resolution) and time range.
