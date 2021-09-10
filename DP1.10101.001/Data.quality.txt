@@ -1,1 +1,0 @@
-Quality control is implemented at th epoint of data entry within a mobile data entry application.  Data formats are constrained and data values are controlled through drop down options.  

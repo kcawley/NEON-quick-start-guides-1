@@ -1,1 +1,0 @@
-unique identifier is the cnSampleID,  this identifier can be used to join this data with root stable isotopes, root chemistry.  

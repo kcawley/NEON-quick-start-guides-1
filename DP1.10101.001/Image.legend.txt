@@ -1,1 +1,0 @@
-x y-coordinates for litter trap placement.  These coordinates differ from those provided in the clipLlists for use with the herbaceous clip protocol.  

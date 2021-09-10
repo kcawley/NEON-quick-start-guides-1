@@ -1,5 +1,0 @@
-vst_perplotperyear, vst_apparentindividual, and vst_shrubgroup tables may be grouped by eventID to consider all data from a single survey.
-
-taxomic and location data from vst_mappingandtagging data are joined to measurements in vst_apparentindividuals via the individualID field. IndividualID also enables joining of mapping data to individual records in Plant phenology observations (NEON.DP1.10055), Plant foliar physical and chemical properties (NEON.DP1.10026), and Plant canopy leaf mass per area (NEON.DP1.10048) data products.
-
-Other data products measuring components of aboveground net primary productivity (ANPP) including Non-herbaceous perennial vegetation structure        (DP1.10045.001), Litterfall and fine woody debris (NEON.DP1.10033), herbaceous clip harvest (NEON.DP1.10023), coarse downed wood log surveys (NEON.DP1.10010), and coarse downed wood bulk density (NEON.DP1.10014) may be joined to woody vegetation structure data via the namedLocation (plotID) field.

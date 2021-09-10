@@ -1,1 +1,1 @@
-Measurement of woody vegetation structure and the mapping of free-standing woody stems to enable calculation of per stem, per plot, and site-level woody biomass and productivity
+Taxonomic identification, state of health, stem diameter, height, crown dimensions, and mapped locations of woody vegetation.
