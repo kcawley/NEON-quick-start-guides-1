@@ -1,1 +1,1 @@
-NA
+Raw images are sent to the PhenoCam Network and undergo QA/QC via protocols outlined in Richardson et al. (2018). 

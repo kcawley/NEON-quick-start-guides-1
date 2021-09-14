@@ -1,1 +1,1 @@
-RGB and IR images of the lake, river, or stream riparian vegetation and stream surface taken from an automated camera.
+RGB (red, green, blue) and IR (infrared) images of the lake, river, or stream riparian vegetation and stream surface collected every 15 minutes by an automated camera.
