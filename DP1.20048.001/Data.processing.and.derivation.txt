@@ -1,1 +1,0 @@
-Detailed steps for data processing can be found in the NEON Algorithm Theoretical Basis Document: OS Generic Transitions.

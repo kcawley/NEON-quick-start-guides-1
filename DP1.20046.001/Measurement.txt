@@ -1,1 +1,1 @@
-Air temperature at the buoy in degrees Celsius (C)
+Air temperature above water at the buoy in degrees Celsius (C)

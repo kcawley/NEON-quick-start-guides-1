@@ -1,1 +1,1 @@
-The SUNA has an automated wiper which cleans the optical lens before each measurement burst.  Manual cleaning is performed b-weekly and field calibrating is performed monthly.  Sensors are returned to the NEON CALVAL lab annually for refresh.
+The SUNA has an automated wiper which cleans the optical lens before each measurement burst.  Manual cleaning is performed bi-weekly and field calibrating is performed monthly.  Sensors are returned to the NEON CALVAL lab annually for refresh.

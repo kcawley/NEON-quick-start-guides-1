@@ -1,1 +1,1 @@
-Wind speed and direction are measured using a 2-D sonic anemometer located on lake and river buoys. Measurements represent a point, are made at 1Hz (1 per second), 11 times per minute and published in two- and thirty-minute averaging intervals.  
+Wind speed and direction are measured using a 2-D sonic anemometer located on lake and river buoys. Measurements represent a point, are made 11 times per minute, and published in two- and thirty-minute averaging intervals.  

@@ -1,1 +1,1 @@
-Wind speed and direction in meters per second.
+Wind speed in meters per second and direction in degrees.

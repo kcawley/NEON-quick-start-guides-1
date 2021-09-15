@@ -1,2 +1,1 @@
-Fifteen minute averages of nitrogen as nitrate (NO3-N) in surface water in units of uM.
-
+Nitrate (NO3-N) in surface water at 15 minute intervals, in units of micromoles per liter.
