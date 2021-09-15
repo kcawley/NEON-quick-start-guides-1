@@ -1,1 +1,3 @@
-N/A
+Analytical replicates, indicated by the "replicate" field in the apl_plantExternalLabDataPerSample table, should generally be averaged before proceeding with other analyses. Note that data in the apl_plantExternalLabDataPerSample table are presented in long form, resulting in multiple records per sample, for each of the analytes.
+
+The spatial coordinates given in the apl_clipHarvest table represent the coordinates of the namedLocation, and the coordinateUncertainty reflects the uncertainty in the location of the namedLocation. The sampling location is nearby. For analyses requiring highly accurate spatial information, streamAddCoordinateUncertainty should be added to coordinateUncertainty for an accurate estimate of the uncertainty in the sampling location.

@@ -1,1 +1,1 @@
-Carbon (C) and Nirtogen (N) concentrations (% and perMill) of aquatic plants, bryophytes, and macroalgae.
+Carbon (C) and Nitrogen (N) concentrations (%) and ratios of 13C and 15N in aquatic plants, bryophytes, and macroalgae.
