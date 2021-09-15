@@ -1,1 +1,1 @@
-Pressure measurements and the reference elevation of the sensor are used to calculate water surface elevation.  5-minute and 30-minute averages are then calculated.     
+Pressure measurements and the reference elevation of the sensor are used to calculate water surface elevation.    
