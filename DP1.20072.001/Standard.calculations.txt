@@ -1,1 +1,1 @@
-Percent cover calculation from Bowden et al. 2006. Divide the number of observed points in the transect that match a particular taxonomic class type (Ni) by the total number of observed points on the transect (Nt). Multiply the dividend by 100.
+Percent cover calculation from Bowden et al. 2006. Divide the number of observed points in the transect that match a particular taxonomic class type (Ni) by the total number of observed points on the transect (Nt). Multiply the result by 100.
