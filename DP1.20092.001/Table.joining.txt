@@ -1,1 +1,0 @@
-In order to join tables from Chemical properties of groundwater to other water chemistry data and associated data products (Stable isotopes in groundwater) you will need to utilize the variables siteID, namedLocation, and collectDate (or parentSampleID from xxx_fieldSuperParent).
