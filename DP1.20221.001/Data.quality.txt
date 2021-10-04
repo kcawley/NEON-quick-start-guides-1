@@ -1,1 +1,1 @@
-
+Each metadata table from the external analytical facility includes a variable, called qaqcStatus, in which the laboratory can indicate sample processing issues. Any records with a qaqcStatus = “Fail” should also be accompanied by free-form notes in the “remarks” variable. The fields sampleFilteredReadNumber and averageFilteredReadQuality also indicate data quality in in zoo_markerGeneSequencing table.

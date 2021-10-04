@@ -1,1 +1,0 @@
-Any field data collected on paper data sheets should be digitally transcribed no more than 14 days after collection.  Variable contraints at points of entry including units, sampling practicality and remarks, ice presence, and Secchi Mean Depth constraints. dataQF field in each record is a quality flag for any known errors. 

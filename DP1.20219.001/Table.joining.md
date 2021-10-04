@@ -1,5 +1,7 @@
-|table 1|table 2|join by field(s)|
+|Table 1|Table 2|Join by field(s)|
 |----------------------------------------|----------------------------------------|--------|
 |zoo_fieldData|zoo_perSample|sampleID|
-|zoo_perSample|zoo_taxonomyRaw or zoo_taxonomyProcessed|sampleID|
-|zoo_taxonomyRaw or zoo_taxonomyProcessed|zoo_perVial|sampleID|
+|zoo_perSample|zoo_taxonomyRaw|sampleID|
+|zoo_perSample|zoo_taxonomyProcessed|sampleID|
+|zoo_taxonomyRaw|zoo_perVial|sampleID|
+|zoo_taxonomyProcessed|zoo_perVial|sampleID|

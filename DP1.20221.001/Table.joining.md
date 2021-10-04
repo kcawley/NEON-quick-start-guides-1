@@ -1,4 +1,4 @@
-|table 1|table 2|join by field(s)|
+|Table 1|Table 2|Join by field(s)|
 |-------------------------|--------------------------------|---------------|
 |zoo_fieldData|zoo_dnaExtraction|geneticSampleID|
 |zoo_dnaExtraction|zoo_pcrAmplification|dnaSampleID|

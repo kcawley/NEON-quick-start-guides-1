@@ -1,1 +1,1 @@
-Any field data collected on paper data sheets should be digitally transcribed no more than 14 days after collection.  Variable contraints at points of entry including units, sampling practicality and remarks, ice presence, and Secchi Mean Depth constraints. dataQF field in each record is a quality flag for any known errors. 
+Metadata about the location of and conditions during sampling can be found in the dep_profileHeader table. The dataQF field in each table documents any unexpected data quality problems identified after the fact.

@@ -1,1 +1,0 @@
-In order to join tables from Stable isotopes in surface water to other water chemistry data and associated data products (Chemical properties of surface water, Dissolved gases in surface water, and Surface water microbe cell count) you will need to utilize the variables siteID, namedLocation, and collectDate (or parentSampleID from xxx_fieldSuperParent).
