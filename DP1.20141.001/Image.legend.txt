@@ -1,1 +1,0 @@
-"Fig 1 - Diagram representing the microbial community composition data product workflow from sample collection to publication on the NEON Data Portal."

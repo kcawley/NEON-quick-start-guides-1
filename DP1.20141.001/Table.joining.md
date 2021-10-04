@@ -1,5 +1,5 @@
 |Table 1|Table 2|Join By|
 |----------------------------|----------------------------|-----------|
-|mcc_swTaxonTableMetadata_16S|mcc_swTaxonTableMetadata_ITS|dnaSampleID|
-|mcc_taxonTableLabSummary|mcc_swTaxonTableMetadata_16S|testMethod|
-|mcc_taxonTableLabSummary|mcc_swTaxonTableMetadata_ITS|testMethod|
+|mcc\_swTaxonTableMetadata\_16S|mcc\_swTaxonTableMetadata\_ITS|dnaSampleID|
+|mcc_taxonTableLabSummary|mcc\_swTaxonTableMetadata\_16S|testMethod|
+|mcc_taxonTableLabSummary|mcc\_swTaxonTableMetadata\_ITS|testMethod|

@@ -1,1 +1,1 @@
-Microbial community compsition provides taxonomic data for bacterial, archaeal, and fungal communities
+Taxonomic identification data for bacterial, archaeal, and fungal communities in surface water
