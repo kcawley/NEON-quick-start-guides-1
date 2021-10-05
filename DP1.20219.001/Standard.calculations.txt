@@ -1,1 +1,1 @@
-Standard calculations for zooplankton data include converting count data, 'adjCountPerBottle' from the zoo_taxonomyProcessed table to a per-sample volume value. For quantitative results, taxon records from a sample should be summed by sample and divided by the 'towTrapsVolume' in the zoo_fieldData in order to estimate the total abundance per L. 
+For quantitative results, all count data in 'adjCountPerBottle' from a sample should be summed across records and divided by the 'towTrapsVolume' in the zoo_fieldData in order to estimate the total abundance per L. 
