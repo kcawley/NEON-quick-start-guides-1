@@ -1,0 +1,1 @@
+Temperature chain placement in a stratified and non-stratified lake.

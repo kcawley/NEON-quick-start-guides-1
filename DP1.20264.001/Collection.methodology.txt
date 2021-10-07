@@ -1,2 +1,2 @@
-Measured using temperature chains suspended from the buoy at lake and river sites.  Measurements are collected from various depths (depending on overall site depth).  Data are reported as one minute and a 30 minute average.
+Measured using temperature chains suspended from the buoy at lake and river sites.  Measurements are collected from various depths (depending on overall site depth).  Data are reported as one-minute and 30-minute averages.
 

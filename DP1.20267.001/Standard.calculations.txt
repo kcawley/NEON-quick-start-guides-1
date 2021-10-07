@@ -1,1 +1,0 @@
-Gauge height is an important variable used to determine discharge rating curves and continuous stream discharge.
