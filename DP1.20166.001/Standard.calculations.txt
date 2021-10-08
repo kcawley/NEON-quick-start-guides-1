@@ -1,6 +1,5 @@
-Step 1: Convert to algal cells per L and correct for preservative volume when algalParameterUnit = countPerBottle (cells/L)
-Step 2: Correct for benthicArea using calculation from Step 1 (cells/m2)
+The periphyton and phytoplankton taxonomic counts come from an external lab in the field algalParameterValue. This field should be coupled with algalParameterUnit.
 
-NEON suggests using algalParameter = 'cell density' for the calculations above. See Data Product User Guide for detailed descriptions of algalParameters.
+The taxonomic count data with algalParameterUnit = cellsPerBottle are not corrected for preservative volume or benthic area. Data users will need to refer to the benthicArea presented in the alg_fieldData table and apply this correction to get the number of algal cells per stream, lake, or river bottom. All taxon records from a sample should be summed and divided by the benthicArea prior to reporting the total abundance per m2.
 
-samplingImpractical records in the fieldData table indicate instances where samples could not be collected due to environmental conditions.
+NEON suggests using algalParameter = 'cell density' for the calculations above. See Data Product User Guide for specific equations and detailed descriptions of algalParameters .
