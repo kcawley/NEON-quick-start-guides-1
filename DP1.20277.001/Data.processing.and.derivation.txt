@@ -1,1 +1,0 @@
-Data are generated using established qPCR workflows that give estimates of abundance for each microbial group (bacteria/archaea and fungi). The exact qPCR primer sequences used may change over time as improved primers are developed.

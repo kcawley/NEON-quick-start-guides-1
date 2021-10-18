@@ -1,9 +1,11 @@
-|table 1|Table 2|join by|
+|Table 1|Table 2|Join by|
 |----------------------------------|---------------------------------------------------|-------------------------------|
-|amc_fieldGenetic.csv|mmg_swDnaExtraction|geneticSampleID|
-|mmg_swPcrAmplification_16S.csv|mmg_swDnaExtraction|dnaSampleID|
-|mmg_swPcrAmplification_ITS.csv|mmg_swDnaExtraction|dnaSampleID|
-|mmg_swMarkerGeneSequencing_16S.csv|mmg_swPcrAmplification_16S and mmg_swDnaExtraction.|dnaSampleID|
-|mmg_swMarkerGeneSequencing_ITS.csv|mmg_swPcrAmplification_ITS and mmg_swDnaExtraction.|dnaSampleID|
-|mmg_swRawDataFiles.csv|mmg_swPcrAmplification_ITS and
-mmg_swDnaExtraction|dnaSampleID and rawDataFileName|
+|amc_fieldGenetic|mmg_swDnaExtraction|geneticSampleID|
+|mmg\_swPcrAmplification\_16S|mmg_swDnaExtraction|dnaSampleID|
+|mmg\_swPcrAmplification\_ITS|mmg_swDnaExtraction|dnaSampleID|
+|mmg\_swMarkerGeneSequencing\_16S|mmg\_swPcrAmplification\_16S|dnaSampleID|
+|mmg\_swMarkerGeneSequencing\_16S|mmg_swDnaExtraction|dnaSampleID|
+|mmg\_swMarkerGeneSequencing\_ITS|mmg\_swPcrAmplification\_ITS|dnaSampleID|
+|mmg\_swMarkerGeneSequencing\_ITS|mmg_swDnaExtraction|dnaSampleID|
+|mmg_swRawDataFiles|mmg\_swPcrAmplification\_ITS|dnaSampleID,rawDataFileName|
+|mmg_swRawDataFiles|mmg_swDnaExtraction|dnaSampleID,rawDataFileName|
