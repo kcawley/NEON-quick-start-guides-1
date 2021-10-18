@@ -1,1 +1,0 @@
-fDOM is corrected for effects of temperature and absorbance on measured fluorecence.  Absorbance data is obtained from a collocated SUNA. For this reason, fDOM is wadeable stream sites is only reported for the S2 (downstream) location.
