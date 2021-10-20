@@ -1,1 +1,1 @@
-The total mass of all above ground organic matter per unit area from remotely sensed hyperspectral data. Data are distributed in GeoTiff raster format by individual flight line.
+The total mass of all aboveground organic matter per unit area from remotely sensed hyperspectral data. Data are distributed in GeoTiff raster format by individual flight line.
