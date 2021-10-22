@@ -1,1 +1,1 @@
-L4 data products rely on QA/QC prodecures of the underlying L1 data products to report data quality.  Final quality flags will be generated for each group of data products based on the percent of the underlying data with a final quality flag raised.  Raising a quality flag at a given temporal level shall require 20% or more data the underlying temporal level be missing or have a quality flag or final quality flag of 1.
+The quality flag is raised (xxxQF=1) for each record if more than 20% of the observations in the aggregation period used to calculate the record were flagged.

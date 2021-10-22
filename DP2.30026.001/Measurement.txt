@@ -1,1 +1,1 @@
-Individual flight lines of 7 standard spectral indices (ARVI, EVI, NDLI, NDNI, NDVI, PRI, and SAVI) known to be useful proxies of vegetation health. Valid data ranges vary across the indices and are detailed in the product ATBD.
+Individual flight lines of 7 standard spectral indices (ARVI, EVI, NDLI, NDNI, NDVI, PRI, and SAVI) known to be useful proxies of vegetation characteristics. Valid data ranges vary across the indices and are detailed in the product ATBD.

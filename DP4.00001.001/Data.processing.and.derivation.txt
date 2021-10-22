@@ -1,1 +1,2 @@
-  
+Daily values are calculated from aggregated data falling between 00:00:00 and 23:59:59 hours on a given day. Those values are then used to produce monthly values only once all daily values of a given month are generated. Once all monthly summaries are complete for a calendar year, then a yearly summary of statistics is generated. Statistics provided for all input data products except precipitation are the minimum, maximum, mean, variance, and standard error for each aggregation period. For precipitation, the total for the aggregation period is provided.
+

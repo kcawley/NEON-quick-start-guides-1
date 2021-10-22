@@ -1,1 +1,1 @@
-1 km by 1 km spatial tiles of 7 standard spectral indices (ARVI, EVI, NDLI, NDNI, NDVI, PRI, and SAVI) known to be useful proxies of vegetation health, mosaicked from individual flightlines. Valid data ranges vary across the indices and are detailed in the product ATBD.
+1 km by 1 km spatial tiles of 7 standard spectral indices (ARVI, EVI, NDLI, NDNI, NDVI, PRI, and SAVI) known to be useful proxies of vegetation characteristics, mosaicked from individual flightlines. Valid data ranges vary across the indices and are detailed in the product ATBD.

@@ -1,1 +1,2 @@
-This data product is Level 4 stream discharge data that has values calculated every minute. This product is derived from pressure readings reported once per minute and the stream discharge rating curve. Stream discharge is the volumetric rate of water that flows through a stream at a given location.  Discharge is dependent on water height and the cross-sectional area of the channel.  
+Stream discharge, the volumetric rate of water that flows through a stream at a given location, in liters per second, at 1 minute resolution.
+  
