@@ -1,6 +1,6 @@
-In eachs station, all the sediment collected is composited into a single sample. Therefore, chemical and physical properties returned in asc_externalLabData represent station-wide means.
+In each station, all the sediment collected is composited into a single sample. Therefore, chemical and physical properties returned in asc_externalLabData represent station-wide means.
 
-Water qualiy parameters are collected in asc_fieldDataPoint. Water quality data can be averaged at the zone-level by taking the mean of every combination of sedimentSampleID and zoneNumber, and at the station level by taking the mean of every sedimentSampleID.
+Water quality parameters are collected in asc_fieldDataPoint. Water quality data can be averaged at the zone-level by taking the mean of every combination of sedimentSampleID and zoneNumber, and at the station level by taking the mean of every sedimentSampleID.
 
 Analytical replicates, indicated by the field analyticalRepNumber, should typically be averaged to determine a single value per sample per analyte, before proceeding with further analyses.
 
