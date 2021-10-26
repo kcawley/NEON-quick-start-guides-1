@@ -40,4 +40,4 @@ for(i in 1:length(dps)) {
 }
 
 write.csv(tjt, paste(gitpath, "/NEON-quick-start-guides/allTableJoins.csv", sep=""),
-          quote=FALSE, row.names=FALSE)
+          quote=TRUE, row.names=FALSE)
