@@ -7,10 +7,10 @@
 |sdrc_posteriorParameters|sdrc_sampledParameters|curveID|curveID|
 |sdrc_posteriorParameters|sdrc_resultsResiduals|curveID|curveID|
 |sdrc_stageDischargeCurveInfo|geo_curveIdentification|curveID|curveID|
-|geo_curveIdentification|geo_controlInfo|controlSurveyStartDateTime|endDate|
-|geo_curveIdentification|geo_controlType|controlSurveyStartDateTime|endDate|
+|geo_curveIdentification|geo_controlInfo|controlSurveyEndDateTime|endDate|
+|geo_curveIdentification|geo_controlType|controlSurveyEndDateTime|endDate|
 |geo_curveIdentification|geo_priorParameters|controlSurveyEndDateTime|endDate|
 |sdrc_stageDischargeCurveInfo|bat_curveIdentification|curveID|curveID|
-|bat_curveIdentification|bat_controlInfo|controlSurveyStartDateTime|endDate|
-|bat_curveIdentification|bat_controlType|controlSurveyStartDateTime|endDate|
+|bat_curveIdentification|bat_controlInfo|controlSurveyEndDateTime|endDate|
+|bat_curveIdentification|bat_controlType|controlSurveyEndDateTime|endDate|
 |bat_curveIdentification|bat_priorParameters|controlSurveyEndDateTime|endDate|
