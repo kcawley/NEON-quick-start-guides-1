@@ -1,1 +1,1 @@
-
+bat_fieldData, bat_pointCollection, bat_sonarRecord, and bat_resultsFile can all be joined using endDate. 
