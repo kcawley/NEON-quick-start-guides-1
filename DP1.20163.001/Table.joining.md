@@ -2,5 +2,5 @@
 |-------------------------|---------------------------------------------------------------------------------------------|---------------|
 |alg_fieldData|alg_domainLabChemistry|sampleID|
 |alg_fieldData|alg_algaeExternalLabDataPerSample|sampleID|
-|alg_fieldData|alg_externalLabPOMSummaryData|Not automatically joinable: Match by laboratoryName, analyte, and lab-specific dates|
-|alg_fieldData|alg_algaeExternalLabQA|Not automatically joinable: Match by laboratoryName, analyte, and analysisDate|
+|alg_algaeExternalLabDataPerSample|alg_externalLabPOMSummaryData|Not fully automatable: Join by laboratoryName, analyte, and overlap of analysisDate with externalLabSummary dates|
+|alg_algaeExternalLabDataPerSample|alg_algaeExternalLabQA|batchID|
