@@ -4,4 +4,4 @@
 |ltr_fielddata|ltr_massdata|fieldsampleID|
 |ltr_massdata|ltr_chemistrySubsampling|Not fully automatable: massSampleIDs are pooled into massSampleIDList|
 |ltr_chemistrySubsampling|ltr_litterCarbonNitrogen|cnSampleID|
-|ltr_chemistrySubsampling|ltr_litterCarbonNitrogen|ligninSampleID|
+|ltr_chemistrySubsampling|ltr_litterLignin|ligninSampleID|
