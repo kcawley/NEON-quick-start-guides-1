@@ -1,1 +1,5 @@
-bat_fieldData, bat_pointCollection, bat_sonarRecord, and bat_resultsFile can all be joined using endDate. 
+|Table 1|Table 2|Join By|
+|----------------------------|-------------------------------------------------------------------------------|------------|
+|bat_fieldData|bat_pointCollection|endDate|
+|bat_fieldData|bat_sonarRecord|endDate|
+|bat_fieldData|bat_resultsFile|endDate|
