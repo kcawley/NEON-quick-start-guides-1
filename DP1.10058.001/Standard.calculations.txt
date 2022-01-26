@@ -4,4 +4,4 @@ Presence or incidence of species is available at 1m^2 scale and can be derived f
 
 Specific subplot lists that need to be aggregated can be found in Figure 2, and additional directions for combining data across tables are included in the NEON User Guide to Plant Presence and Percent Cover data product user guide.   
 
-The tables div_1m2Data and div_10m2Data100m2Data can be joined by the eventID field found in both tables. This eventID field links by the plot (and site), bout and year. 
+The eventID field in tables div_1m2Data and div_10m2Data100m2Data can be used to match surveys representing the same sampling event.
