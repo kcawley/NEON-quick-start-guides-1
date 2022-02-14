@@ -7,7 +7,7 @@ dps <- dps[grep("DP[0-4]{1}[.]", dps)]
 
 tlengths <- character()
 # iterate over data products
-for(i in 1:length(dps)) {
+for(i in 51:length(dps)) {
   
   # pull out all the table joining tables
   tpath <- paste(dps[i], "Table.joining.md", sep="/")
@@ -24,10 +24,14 @@ for(i in 1:length(dps)) {
   
   # download data to get table names
   dpid <- regmatches(dps[i], regexpr('DP[0-4]{1}[.][0-9]{5}[.]00[0-2]', dps[i]))
-  dat <- loadByProduct(dpid, site=c('HARV', 'ARIK', 'YELL', 'SUGG'), 
-                       startdate='2018-01', enddate='2018-12', 
-                       package='expanded',
-                       check.size=F, token=Sys.getenv('NEON_TOKEN'))
+  if(dpid=='DP1.10017.001') {
+    next
+  } else {
+    dat <- loadByProduct(dpid, site=c('HARV', 'ARIK', 'YELL', 'SUGG'), 
+                         startdate='2018-01', enddate='2018-12', 
+                         package='expanded',
+                         check.size=F, token=Sys.getenv('NEON_TOKEN'))
+  }
   
   # subset to just data tables
   dat.tab <- grep('variables|validation|categorical|readme|issue', names(dat), invert=T, value=T)
@@ -74,24 +78,31 @@ for(i in 1:length(dps)) {
     nomerge <- NA
   }
   
-  # combinations of tables
-  dat.c <- data.frame(t(combn(dat.tab, 2)))
-  
-  # is each combination in the QSG?
-  ind <- numeric()
-  for(j in 1:nrow(dat.c)) {
-    if(paste(dat.c[j,], collapse='.') %in% paste(tab$Table1, tab$Table2, sep='.') | 
-       paste(dat.c[j,], collapse='.') %in% paste(tab$Table2, tab$Table1, sep='.')) {
-      ind <- c(ind, j)
+  # check again for only one table
+  if(length(dat.tab)==1) {
+    tjt <- tab
+  } else {
+    
+    # combinations of tables
+    dat.c <- data.frame(t(combn(dat.tab, 2)))
+    
+    # is each combination in the QSG?
+    ind <- numeric()
+    for(j in 1:nrow(dat.c)) {
+      if(paste(dat.c[j,], collapse='.') %in% paste(tab$Table1, tab$Table2, sep='.') | 
+         paste(dat.c[j,], collapse='.') %in% paste(tab$Table2, tab$Table1, sep='.')) {
+        ind <- c(ind, j)
+      }
     }
+    
+    # remove pairs accounted for
+    dat.sub <- dat.c[-ind,]
+    names(dat.sub) <- c('Table1', 'Table2')
+    
+    # append to table
+    tjt <- data.table::rbindlist(list(tab, dat.sub), fill=T)
+    
   }
-  
-  # remove pairs accounted for
-  dat.sub <- dat.c[-ind,]
-  names(dat.sub) <- c('Table1', 'Table2')
-  
-  # append to table
-  tjt <- data.table::rbindlist(list(tab, dat.sub), fill=T)
   
   # check need for 4 columns
   if(identical(tjt$JoinByTable1,tjt$JoinByTable2)) {
@@ -101,10 +112,15 @@ for(i in 1:length(dps)) {
   # append lab and site-all tables
   if(!identical(nomerge, NA)) {
     notrec <- data.frame(cbind(nomerge, 
-                               'Join not recommended. Data resolution does not match other tables.'))
-    names(notrec) <- c('Table1', 'JoinByTable1')
+                               rep('Any other table', length(nomerge)),
+                               rep('Join not recommended. Data resolution does not match other tables.',
+                                   length(nomerge))))
+    names(notrec) <- c('Table1', 'Table2', 'JoinByTable1')
     tjt <- data.table::rbindlist(list(tjt, notrec), fill=T)
   }
+  
+  # replace NAs with empty strings
+  tjt[which(is.na(tjt), arr.ind=T)] <- ''
   
   # write back to markdown
   if(ncol(tjt)==3) {
@@ -123,8 +139,3 @@ for(i in 1:length(dps)) {
 
 }
 
-# things needing fixing:
-# write out empty strings to file, not NAs
-# write out an "any table" statement for Table 2 for lab tables
-# but then will need an any table exception in the function
-# DHP won't download expanded
