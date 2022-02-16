@@ -7,7 +7,7 @@ dps <- dps[grep("DP[0-4]{1}[.]", dps)]
 
 tlengths <- character()
 # iterate over data products
-for(i in 51:length(dps)) {
+for(i in 122:length(dps)) {
   
   # pull out all the table joining tables
   tpath <- paste(dps[i], "Table.joining.md", sep="/")
@@ -27,8 +27,8 @@ for(i in 51:length(dps)) {
   if(dpid=='DP1.10017.001') {
     next
   } else {
-    dat <- loadByProduct(dpid, site=c('HARV', 'ARIK', 'YELL', 'SUGG'), 
-                         startdate='2018-01', enddate='2018-12', 
+    dat <- loadByProduct(dpid, site=c('WREF', 'ARIK', 'YELL', 'SUGG'), 
+                         startdate='2019-01', enddate='2019-12', 
                          package='expanded',
                          check.size=F, token=Sys.getenv('NEON_TOKEN'))
   }
@@ -139,3 +139,5 @@ for(i in 51:length(dps)) {
 
 }
 
+tlengths <- data.frame(tlengths)
+names(tlengths) <- c('dpid', 'ntabcombos')
