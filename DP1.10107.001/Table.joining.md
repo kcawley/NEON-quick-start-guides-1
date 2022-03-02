@@ -2,4 +2,4 @@
 |------------------------|------------------------|-------------------------------|
 mms_metagenomeDnaExtraction|mms_metagenomeSequencing|dnaSampleID
 mms_metagenomeSequencing|mms_rawDataFiles|dnaSampleID
-mms_metagenomeDnaExtraction|mms_rawDataFiles|
+mms_metagenomeDnaExtraction|mms_rawDataFiles|dnaSampleID
