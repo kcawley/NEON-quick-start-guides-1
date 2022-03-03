@@ -6,14 +6,14 @@ alg_biomass|alg_taxonomyRaw|sampleID
 alg_taxonomyProcessed|alg_biovolume|scientificName
 alg_taxonomyRaw|alg_biovolume|scientificName
 alg_archive|alg_biomass|sampleID
-alg_archive|alg_fieldData|Not fully automatable: join via alg_biomass table
+alg_archive|alg_fieldData|Requires intermediate table: join via alg_biomass table
 alg_archive|alg_qualityCheck|sampleID
 alg_archive|alg_taxonomyProcessed|sampleID
 alg_archive|alg_taxonomyRaw|sampleID
 alg_biomass|alg_qualityCheck|sampleID
-alg_fieldData|alg_qualityCheck|Not fully automatable: join via alg_biomass table
-alg_fieldData|alg_taxonomyProcessed|Not fully automatable: join via alg_biomass table
-alg_fieldData|alg_taxonomyRaw|Not fully automatable: join via alg_biomass table
+alg_fieldData|alg_qualityCheck|Requires intermediate table: join via alg_biomass table
+alg_fieldData|alg_taxonomyProcessed|Requires intermediate table: join via alg_biomass table
+alg_fieldData|alg_taxonomyRaw|Requires intermediate table: join via alg_biomass table
 alg_qualityCheck|alg_taxonomyProcessed|sampleID
 alg_qualityCheck|alg_taxonomyRaw|sampleID
 alg_taxonomyProcessed|alg_taxonomyRaw|sampleID

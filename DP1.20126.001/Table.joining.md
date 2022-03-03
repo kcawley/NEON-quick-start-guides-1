@@ -12,9 +12,9 @@ inv_dnaRawDataFiles|inv_fieldData|dnaSampleID
 inv_dnaRawDataFiles|inv_markerGeneSequencing|dnaSampleID
 inv_dnaRawDataFiles|inv_metabarcodeTaxonomy|dnaSampleID
 inv_dnaRawDataFiles|inv_pcrAmplification|dnaSampleID
-inv_fieldData|inv_markerGeneSequencing|Not fully automatable: join via inv_dnaExtraction table
-inv_fieldData|inv_metabarcodeTaxonomy|Not fully automatable: join via inv_dnaExtraction table
-inv_fieldData|inv_pcrAmplification|Not fully automatable: join via inv_dnaExtraction table
+inv_fieldData|inv_markerGeneSequencing|Requires intermediate table: join via inv_dnaExtraction table
+inv_fieldData|inv_metabarcodeTaxonomy|Requires intermediate table: join via inv_dnaExtraction table
+inv_fieldData|inv_pcrAmplification|Requires intermediate table: join via inv_dnaExtraction table
 inv_markerGeneSequencing|inv_metabarcodeTaxonomy|dnaSampleID
 inv_markerGeneSequencing|inv_pcrAmplification|dnaSampleID
 inv_metabarcodeTaxonomy|inv_pcrAmplification|dnaSampleID

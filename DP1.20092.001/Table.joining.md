@@ -3,7 +3,7 @@
 gwc_fieldSuperParent|gwc_fieldData|parentSampleID
 gwc_fieldData|gwc_domainLabData|parentSampleID
 gwc_fieldData|gwc_externalLabDataByAnalyte|Not fully automatable: sampleID in gwc\_externalLabDataByAnalyte corresponds to filtSampleID, filtNutSampleID, rawSampleID, rawNutSampleID, pcnSampleID, and dicSampleID in gwc\_fieldData
-gwc_domainLabData|gwc_externalLabDataByAnalyte|Not fully automatable: join via gwc_fieldData table
+gwc_domainLabData|gwc_externalLabDataByAnalyte|Requires intermediate table: join via gwc_fieldData table
 gwc_domainLabData|gwc_fieldSuperParent|parentSampleID
 gwc_domainLabData|gwc_wellStabilization|parentSampleID
 gwc_externalLabDataByAnalyte|gwc_fieldSuperParent|gwc_externalLabDataByAnalyte|Not fully automatable: join via gwc_fieldData table

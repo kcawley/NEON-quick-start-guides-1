@@ -2,4 +2,4 @@
 |------------------------|------------------------|-------------------------------|
 mam_perplotnight|mam_pertrapnight|nightuid
 mam_pertrapnight|mam_voucher|voucherSampleID
-mam_perplotnight|mam_voucher|Direct join not recommended. Join via mam_pertrapnight table.
+mam_perplotnight|mam_voucher|Requires intermediate table: Join via mam_pertrapnight table.
