@@ -7,17 +7,17 @@ inv_dnaExtraction|inv_dnaRawDataFiles|dnaSampleID
 inv_dnaExtractionStandard|inv_pcrAmplificationStandard|dnaSampleID
 inv_dnaExtractionStandard|inv_markerGeneSequencingStandard|dnaSampleID
 inv_dnaExtractionStandard|inv_dnaRawDataFilesStandard|dnaSampleID
-inv_dnaExtraction|inv_metabarcodeTaxonomy|
-inv_dnaRawDataFiles|inv_fieldData|
-inv_dnaRawDataFiles|inv_markerGeneSequencing|
-inv_dnaRawDataFiles|inv_metabarcodeTaxonomy|
-inv_dnaRawDataFiles|inv_pcrAmplification|
-inv_fieldData|inv_markerGeneSequencing|
-inv_fieldData|inv_metabarcodeTaxonomy|
-inv_fieldData|inv_pcrAmplification|
-inv_markerGeneSequencing|inv_metabarcodeTaxonomy|
-inv_markerGeneSequencing|inv_pcrAmplification|
-inv_metabarcodeTaxonomy|inv_pcrAmplification|
+inv_dnaExtraction|inv_metabarcodeTaxonomy|dnaSampleID
+inv_dnaRawDataFiles|inv_fieldData|dnaSampleID
+inv_dnaRawDataFiles|inv_markerGeneSequencing|dnaSampleID
+inv_dnaRawDataFiles|inv_metabarcodeTaxonomy|dnaSampleID
+inv_dnaRawDataFiles|inv_pcrAmplification|dnaSampleID
+inv_fieldData|inv_markerGeneSequencing|Not fully automatable: join via inv_dnaExtraction table
+inv_fieldData|inv_metabarcodeTaxonomy|Not fully automatable: join via inv_dnaExtraction table
+inv_fieldData|inv_pcrAmplification|Not fully automatable: join via inv_dnaExtraction table
+inv_markerGeneSequencing|inv_metabarcodeTaxonomy|dnaSampleID
+inv_markerGeneSequencing|inv_pcrAmplification|dnaSampleID
+inv_metabarcodeTaxonomy|inv_pcrAmplification|dnaSampleID
 inv_dnaExtractionStandard|Any other table|Join not recommended. Data resolution does not match other tables.
 inv_dnaRawDataFilesStandard|Any other table|Join not recommended. Data resolution does not match other tables.
 inv_dnaStandardTaxon|Any other table|Join not recommended. Data resolution does not match other tables.
