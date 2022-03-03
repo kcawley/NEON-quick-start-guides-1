@@ -4,5 +4,5 @@ sbd_conductivityFieldData|sbd_backgroundFieldCondData|hoboSampleID
 sbd_backgroundFieldSaltData|sbd_externalLabDataSalt|saltBackgroundSampleID
 sbd_plateauSampleFieldData|sbd_externalLabDataSalt|saltTracerSampleID
 sbd_fieldData|sbd_externalLabDataSalt|injectateSampleID
-sbd_backgroundFieldCondData|sbd_fieldData|
-sbd_conductivityFieldData|sbd_fieldData|
+sbd_backgroundFieldCondData|sbd_fieldData|Join not recommended: data can be related by date and site of sampling
+sbd_conductivityFieldData|sbd_fieldData|Join not recommended: data can be related by date and site of sampling

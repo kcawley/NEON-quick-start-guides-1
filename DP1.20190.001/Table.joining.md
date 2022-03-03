@@ -5,8 +5,8 @@ rea_plateauSampleFieldData|rea_externalLabDataGas|gasSampleID
 rea_backgroundFieldSaltData|rea_externalLabDataSalt|saltBackgroundSampleID
 rea_plateauSampleFieldData|rea_externalLabDataSalt|saltTracerSampleID
 rea_fieldData|rea_externalLabDataSalt|injectateSampleID
-rea_backgroundFieldCondData|rea_fieldData|
-rea_backgroundFieldCondData|rea_widthFieldData|
-rea_conductivityFieldData|rea_fieldData|
-rea_conductivityFieldData|rea_widthFieldData|
-rea_fieldData|rea_widthFieldData|
+rea_backgroundFieldCondData|rea_fieldData|Join not recommended: data can be related via date and site of sampling
+rea_backgroundFieldCondData|rea_widthFieldData|Join not recommended: data can be related via date and site of sampling
+rea_conductivityFieldData|rea_fieldData|Join not recommended: data can be related via date and site of sampling
+rea_conductivityFieldData|rea_widthFieldData|Join not recommended: data can be related via date and site of sampling
+rea_fieldData|rea_widthFieldData|Join not recommended: data can be related via date and site of sampling
