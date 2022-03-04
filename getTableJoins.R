@@ -26,10 +26,10 @@ for(i in 1:length(dps)) {
     y <- gsub("\\", y, replacement="", fixed=TRUE)
     return(y)
   })
+  l <- l[-c(1,2)]
   
   # convert data to table form
   tab <- do.call(rbind.data.frame, l)
-  tab <- tab[-c(1,2),-1]
   if(ncol(tab)==3) {
     tab$JoinByTable2 <- tab[,3]
   }

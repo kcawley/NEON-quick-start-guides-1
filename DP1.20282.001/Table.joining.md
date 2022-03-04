@@ -22,9 +22,9 @@ amc_fieldSuperParent|mmg\_swPcrAmplification\_16S|Requires intermediate table: j
 amc_fieldSuperParent|mmg\_swPcrAmplification\_ITS|Requires intermediate table: join via amc\_fieldGenetic and mmg\_swDnaExtraction tables
 amc_fieldSuperParent|mmg_swRawDataFiles|Requires intermediate table: join via amc\_fieldGenetic and mmg\_swDnaExtraction tables
 mmg\_swMarkerGeneSequencing\_16S|mmg\_swMarkerGeneSequencing\_ITS|Join not recommended: different sequencing types
-mmg\_swMarkerGeneSequencing\_16S|mmg\_swPcrAmplification\_ITS|mmg\_swMarkerGeneSequencing\_ITS|Join not recommended: different sequencing types
+mmg\_swMarkerGeneSequencing\_16S|mmg\_swPcrAmplification\_ITS|Join not recommended: different sequencing types
 mmg\_swMarkerGeneSequencing\_16S|mmg_swRawDataFiles|dnaSampleID
-mmg\_swMarkerGeneSequencing\_ITS|mmg\_swPcrAmplification\_16S|mmg\_swMarkerGeneSequencing\_ITS|Join not recommended: different sequencing types
+mmg\_swMarkerGeneSequencing\_ITS|mmg\_swPcrAmplification\_16S|Join not recommended: different sequencing types
 mmg\_swMarkerGeneSequencing\_ITS|mmg_swRawDataFiles|dnaSampleID
-mmg\_swPcrAmplification\_16S|mmg\_swPcrAmplification\_ITS|mmg\_swMarkerGeneSequencing\_ITS|Join not recommended: different sequencing types
+mmg\_swPcrAmplification\_16S|mmg\_swPcrAmplification\_ITS|Join not recommended: different sequencing types
 mmg\_swPcrAmplification\_16S|mmg_swRawDataFiles|dnaSampleID

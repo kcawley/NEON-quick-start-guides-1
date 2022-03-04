@@ -6,7 +6,7 @@ gwc_fieldData|gwc_externalLabDataByAnalyte|Not fully automatable: sampleID in gw
 gwc_domainLabData|gwc_externalLabDataByAnalyte|Requires intermediate table: join via gwc_fieldData table
 gwc_domainLabData|gwc_fieldSuperParent|parentSampleID
 gwc_domainLabData|gwc_wellStabilization|parentSampleID
-gwc_externalLabDataByAnalyte|gwc_fieldSuperParent|gwc_externalLabDataByAnalyte|Not fully automatable: join via gwc_fieldData table
+gwc_externalLabDataByAnalyte|gwc_fieldSuperParent|Requires intermediate table: join via gwc_fieldData table
 gwc_externalLabDataByAnalyte|gwc_wellStabilization|Join not recommended: data resolutions are very different. 
 gwc_fieldData|gwc_wellStabilization|parentSampleID
 gwc_fieldSuperParent|gwc_wellStabilization|parentSampleID
