@@ -2,7 +2,7 @@
 |------------------|-------------------|--------------------|
 asc_fieldDataStation|asc_fieldDataZone|sedimentSampleID|
 asc_fieldDataStation|asc_fieldDataPoint|sedimentSampleID|sedimentSampleID|
-asc_fieldDataStation|asc_externalLabData|Not fully automatable: sampleID in asc\_externalLabData corresponds to carbonSedimentSampleID, organicSedimentSampleID, and inorganicSedimentSampleID in asc\_fieldDataStation|sampleID|
+asc_fieldDataStation|asc_externalLabData|Not fully automatable: sampleID in asc\_externalLabData corresponds to carbonSedimentSampleID, organicSedimentSampleID, and inorganicSedimentSampleID in asc\_fieldDataStation|
 asc_externalLabData|asc_fieldDataPoint|Requires intermediate table: join via asc_fieldDataStation table|
 asc_externalLabData|asc_fieldDataZone|Requires intermediate table: join via asc_fieldDataStation table|
 asc_fieldDataPoint|asc_fieldDataZone|sedimentSampleID|
