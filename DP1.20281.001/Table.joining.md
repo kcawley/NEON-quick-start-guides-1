@@ -1,6 +1,6 @@
 |Table 1|Table 2|Join by field Table 1|Join by field Table 2|
 |---------------------|---------------------|-------------------------|--------------------|
-amc_fieldGenetic|mms_swMetagenomeDnaExtraction|metagenomicsSampleID|genomicsSampleID|
+amc_fieldGenetic|mms_swMetagenomeDnaExtraction|metagenomicSampleID|genomicsSampleID|
 mms_swMetagenomeDnaExtraction|mms_swMetagenomeSequencing|dnaSampleID|dnaSampleID|
 mms_swMetagenomeSequencing|mms_metagenomeDnaExtraction|dnaSampleID|dnaSampleID|
 mms_swRawDataFiles|mms_swMetagenomeDnaExtraction|dnaSampleID|dnaSampleID|

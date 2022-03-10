@@ -5,8 +5,8 @@ mos_sorting|mos_subsampling|subsampleID
 mos_trapping|mos_subsampling|Requires intermediate table: join via mos_sorting table
 mos_sorting|mos_expertTaxonomistIDProcessed|subsampleID
 mos_sorting|mos_expertTaxonomistIDRaw|subsampleID
-mos_expertTaxonomistIDProcessed|mos_archivepooling|archiveID
-mos_expertTaxonomistIDRaw|mos_archivepooling|archiveID
+mos_expertTaxonomistIDProcessed|mos_archivepooling|Requires intermediate table: join via mos_subsampling table
+mos_expertTaxonomistIDRaw|mos_archivepooling|Requires intermediate table: join via mos_subsampling table
 mos_archivepooling|mos_barcoding|Requires intermediate table: join via mos_subsampling table
 mos_archivepooling|mos_sorting|Requires intermediate table: join via mos_subsampling table
 mos_archivepooling|mos_subsampling|archiveID
