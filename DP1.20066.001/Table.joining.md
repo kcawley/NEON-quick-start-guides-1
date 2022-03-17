@@ -6,4 +6,7 @@ apl_clipHarvest|apl_algaeExternalLabDataPerSample|sampleID
 apl_clipHarvest|apl_biomass|fieldID
 apl_biomass|apl_taxonomyRaw|sampleID
 apl_biomass|apl_taxonomyProcessed|sampleID
+apl_clipHarvest|apl_taxonomyRaw|Requires intermediate table: Join via apl_biomass table
+apl_clipHarvest|apl_taxonomyProcessed|Requires intermediate table: Join via apl_biomass table
+apl_taxonomyRaw|apl_taxonomyProcessed|sampleID
 apc_morphospecies|Any other table|Join not recommended. Data resolution does not match other tables.

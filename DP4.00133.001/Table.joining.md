@@ -25,3 +25,8 @@ sdrc_sampledParameters|sdrc_stageDischargeCurveInfo|curveID|curveID
 geo_controlInfo|Any other table|Join not recommended. Data can be related by date and site of sampling.|
 bat_AISsiteSurveyResultsFile|Any other table|Join not recommended. Data can be related by date and site of sampling.|
 geo_AISsiteSurveyResultsFile|Any other table|Join not recommended. Data can be related by date and site of sampling.|
+bat_controlInfo|Any other table than those above|Join not recommended. Data can be related by date and site of sampling.|
+bat_controlType|Any other table than those above|Join not recommended. Data can be related by date and site of sampling.|
+bat_priorParameters|Any other table than those above|Join not recommended. Data can be related by date and site of sampling.|
+geo_controlType|Any other table than those above|Join not recommended. Data can be related by date and site of sampling.|
+geo_priorParameters|Any other table than those above|Join not recommended. Data can be related by date and site of sampling.|
