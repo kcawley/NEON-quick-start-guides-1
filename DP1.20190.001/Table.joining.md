@@ -10,3 +10,4 @@ rea_backgroundFieldCondData|rea_widthFieldData|Join not recommended: data can be
 rea_conductivityFieldData|rea_fieldData|Join not recommended: data can be related via date and site of sampling
 rea_conductivityFieldData|rea_widthFieldData|Join not recommended: data can be related via date and site of sampling
 rea_fieldData|rea_widthFieldData|Join not recommended: data can be related via date and site of sampling
+rea_plateauMeasurementFieldData|Any other table|Join not recommended: data can be related via date and site of sampling

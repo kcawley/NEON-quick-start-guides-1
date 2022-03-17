@@ -22,4 +22,6 @@ sdrc_gaugeDischargeMeas|sdrc_posteriorParameters|curveID|curveID
 sdrc_gaugeDischargeMeas|sdrc_sampledParameters|curveID|curveID
 sdrc_resultsResiduals|sdrc_sampledParameters|curveID|curveID
 sdrc_sampledParameters|sdrc_stageDischargeCurveInfo|curveID|curveID
-geo_controlInfo|Any other table|Join not recommended. Data resolution does not match other tables.|
+geo_controlInfo|Any other table|Join not recommended. Data can be related by date and site of sampling.|
+bat_AISsiteSurveyResultsFile|Any other table|Join not recommended. Data can be related by date and site of sampling.|
+geo_AISsiteSurveyResultsFile|Any other table|Join not recommended. Data can be related by date and site of sampling.|

@@ -21,3 +21,4 @@ mos_expertTaxonomistIDProcessed|mos_subsampling|subsampleID
 mos_expertTaxonomistIDProcessed|mos_trapping|Requires intermediate table: join via mos_sorting table
 mos_expertTaxonomistIDRaw|mos_subsampling|subsampleID
 mos_expertTaxonomistIDRaw|mos_trapping|Requires intermediate table: join via mos_sorting table
+mos_identificationHistory|Any other table|Full join not recommended: Previous identifications of the same individual can be linked by identificationHistoryID
