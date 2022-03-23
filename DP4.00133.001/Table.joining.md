@@ -18,6 +18,11 @@ geo_curveIdentification|sdrc_gaugeDischargeMeas|curveID|curveID|
 geo_curveIdentification|sdrc_posteriorParameters|curveID|curveID|
 geo_curveIdentification|sdrc_resultsResiduals|curveID|curveID|
 geo_curveIdentification|sdrc_sampledParameters|curveID|curveID|
+geo_curveIdentification|bat_curveIdentification|Join not recommended. Data are collected at mutually exclusive sites.||
+bat_curveIdentification|sdrc_gaugeDischargeMeas|curveID|curveID|
+bat_curveIdentification|sdrc_posteriorParameters|curveID|curveID|
+bat_curveIdentification|sdrc_resultsResiduals|curveID|curveID|
+bat_curveIdentification|sdrc_sampledParameters|curveID|curveID|
 sdrc_gaugeDischargeMeas|sdrc_posteriorParameters|curveID|curveID|
 sdrc_gaugeDischargeMeas|sdrc_sampledParameters|curveID|curveID|
 sdrc_resultsResiduals|sdrc_sampledParameters|curveID|curveID|

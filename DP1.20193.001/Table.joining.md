@@ -7,5 +7,6 @@ sbd_fieldData|sbd_externalLabDataSalt|Not fully automatable: injectateSampleID i
 sbd_backgroundFieldCondData|Any other table|Join not recommended: data can be related by date and site of sampling
 sbd_conductivityFieldData|Any other table|Join not recommended: conductivity data are measured at much higher frequency than other tables
 sbd_plateauMeasurementFieldData|Any other table|Join not recommended: data can be related by date and site of sampling
+sbd_plateauMeasurementFieldData|Any other table than those above|Join not recommended: data can be related by date and site of sampling
 sbd_backgroundFieldCondData|Any other table|Join not recommended: data can be related by date and site of sampling
 sbd_backgroundFieldSaltData|Any other table than those above|Join not recommended: data can be related by date and site of sampling
