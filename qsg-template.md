@@ -1,44 +1,107 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-us">
 <head>
     <meta charset="utf-8">
-    <style type="text/css">
+    <title>NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE }}</title>
+    <meta name="subject" content="NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE }}"/>
+    <meta name="author" content="National Ecological Observatory Network"/>
+    <meta name="description" content="NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE }}"/>
+    <style neon-qsg-standalone-html-remove>
         @page {
+            size: A4;
             margin-top: 1.5in;
             margin-bottom: 1.5in;
             @top-left {
-                content: url('https://raw.githubusercontent.com/NEONScience/NEON-quick-start-guides/main/Header.png');
+                content: element(neon-header);
+            }
+            @top-right {
+                font-family: 'Inter', sans-serif;
+                font-size: 12px;
+                color: #7c7f80;
+                content: counter(page);
             }
             @bottom-left {
-                content: url('https://raw.githubusercontent.com/NEONScience/NEON-quick-start-guides/main/Footer.png');
+                content: element(neon-footer);
             }
+        }
+    </style>
+    <style neon-qsg-standalone-html-remove>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+        }
+        header {
+            position: running(neon-header);
+        }
+        footer {
+            position: running(neon-footer);
+        }
+        table,
+        div.pdf-ua-display-as-table {
+            -fs-table-paginate: paginate;
+            margin-left: 1px;
+            margin-right: 1px;
         }
     </style>
 </head>
 <body>
+<header>
+    <img 
+        src="https://raw.githubusercontent.com/NEONScience/NEON-quick-start-guides/main/Header.png"
+        alt="NEON Header"
+        width="150"
+    />
+</header>
+<footer neon-qsg-standalone-html-remove>
+    <img
+        src="https://raw.githubusercontent.com/NEONScience/NEON-quick-start-guides/main/Footer.png"
+        alt="NEON Footer"
+        width="700"
+    />
+</footer>
+<!-- HTML to PDF Converter Specific for PDF Bookmarks -->
+<bookmarks neon-qsg-standalone-html-remove>
+    <bookmark name="Measurement" href="#measurement"/>
+    <bookmark name="Collection Methodology" href="#collection-methodology"/>
+    {{if DP.TYPE [AIS, TIS, AOS, TOS, TOS-structured TIS] }}
+    <bookmark name="Data Package Contents" href="#data-package-contents"/>
+    {{end}}
+    {{if REPO.FILE [Data.processing.and.derivation] }}
+    <bookmark name="Data Processing and Derivation" href="#data-processing-and-derivation"/>
+    {{end}}
+    {{if REPO.FILE [Data.quality] }}
+    <bookmark name="Data Quality" href="#data-quality"/>
+    {{end}}
+    {{if REPO.FILE [Standard.calculations] }}
+    <bookmark name="Standard Calculations" href="#standard-calculations"/>
+    {{end}}
+    {{if REPO.FILE [Table.joining] }}
+    <bookmark name="Table Joining" href="#table-joining"/>
+    {{end}}
+    <bookmark name="Documentation" href="#documentation"/>
+    <bookmark name="Citation" href="#citation"/>
+    {{if REPO.FILE [References] }}
+    <bookmark name="References" href="#references"/>
+    {{end}}
+</bookmarks>
+<main>
+<article class="markdown-body">
 
-## {{> DP.NAME }} ({{> DP.PRODUCT_CODE }})
----
+# {{> DP.NAME }} ({{> DP.PRODUCT_CODE }})
 
-### Measurement
+## Measurement
 {{. Measurement }}
 
-<br/>
-
-### Collection methodology
+## Collection methodology
 {{. Collection.methodology }}
-
-<br/>
 
 {{# .Images }}  
 {{. Image# }}  
 {{. Image.legend# }}  
 {{/ .Images }}
 
-<br/>
-
-{{if DP.TYPE [AIS, TIS, AOS, TOS, TOS-structured-TIS] }}
-### Data package contents
+{{if DP.TYPE [AIS, TIS, AOS, TOS, TOS-structured TIS] }}
+## Data package contents
 {{# PUB.TABLES }}  
 {{> PUB.TABLE.DEF tableName }}: {{> PUB.TABLE.DEF description }}  
 {{/ PUB.TABLES }}  
@@ -52,50 +115,38 @@ validation: Description of data validation applied at the points of collection a
 {{end}}  
 {{end}}
 
-<br/>
-
 {{if REPO.FILE [Data.processing.and.derivation] }}
-### Data processing and derivation
+## Data processing and derivation
 {{. Data.processing.and.derivation }}  
 {{end}}
 
-<br/>
-
 {{if REPO.FILE [Data.quality] }}
-### Data quality
+## Data quality
 {{. Data.quality }}  
 {{end}}
 
-<br/>
-
 {{if REPO.FILE [Standard.calculations] }}
-### Standard calculations
+## Standard calculations
 {{. Standard.calculations }}  
 {{end}}
 
-<br/>
-
 {{if REPO.FILE [Table.joining] }}
-### Table joining
+## Table joining
 {{. Table.joining }}  
 {{end}}
 
-<br/>
-
-### Documentation
+## Documentation
 {{> DP.DOCUMENTS }}
 
-<br/>
-
-### Citation
+## Citation
 {{> CITATION }}
 
-<br/>
-
 {{if REPO.FILE [References] }}
-### References
+## References
 {{. References }}  
 {{end}}
 
+</article>
+</main>
 </body>
 </html>
