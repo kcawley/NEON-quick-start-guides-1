@@ -8,20 +8,28 @@
     <meta name="description" content="NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE }}"/>
     <style neon-qsg-standalone-html-remove>
         @page {
-            size: A4;
-            margin-top: 1.5in;
+            size: letter;
+            margin-top: 1.25in;
             margin-bottom: 1.5in;
+            margin-left: 1in;
+            margin-right: 1in;
             @top-left {
                 content: element(neon-header);
+                vertical-align: top;
+                padding-top: 44px
             }
             @top-right {
                 font-family: 'Inter', sans-serif;
                 font-size: 12px;
                 color: #7c7f80;
-                content: counter(page);
+                content: 'Page ' counter(page) ' of ' counter(pages);
+                vertical-align: top; 
+                padding-top: 60px;
             }
             @bottom-left {
                 content: element(neon-footer);
+                vertical-align: top;
+                padding-top: 40px;
             }
         }
     </style>
@@ -49,14 +57,14 @@
     <img 
         src="https://raw.githubusercontent.com/NEONScience/NEON-quick-start-guides/main/Header.png"
         alt="NEON Header"
-        width="150"
+        height="48"
     />
 </header>
 <footer neon-qsg-standalone-html-remove>
     <img
         src="https://raw.githubusercontent.com/NEONScience/NEON-quick-start-guides/main/Footer.png"
         alt="NEON Footer"
-        width="700"
+        width="623"
     />
 </footer>
 <!-- HTML to PDF Converter Specific for PDF Bookmarks -->
