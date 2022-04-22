@@ -36,7 +36,7 @@ Calculations that users should expect to need to make to use the data. Examples:
 * Some tables in phenology (DP1.10055.001) contain an editedDate field; users should use only the most recently edited records.
 
 #### Table joining
-Relevant to data processed via the OS pipeline. A table of paired table names and the field(s) that provide a linking variable to join the tables.
+Relevant to data processed via the OS pipeline. A table of paired table names and the field(s) that provide a linking variable to join the tables. Used to inform the function joinTableNEON() in the neonOS R package. 
 
 #### References
 If relevant, list references cited in the QSG.
