@@ -103,6 +103,11 @@
 ## Collection methodology
 {{. Collection.methodology }}
 
+{{if REPO.FILE [Maintenance.and.calibration] }}
+## Maintenance and calibration
+{{. Maintenance.and.calibration }}  
+{{end}}
+
 {{# .Images }}  
 {{. Image# }}  
 {{. Image.legend# }}  
