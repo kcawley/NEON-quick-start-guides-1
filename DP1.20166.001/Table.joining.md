@@ -3,18 +3,10 @@
 alg_fieldData|alg_biomass|parentSampleID
 alg_biomass|alg_taxonomyProcessed|sampleID
 alg_biomass|alg_taxonomyRaw|sampleID
-alg_taxonomyProcessed|alg_biovolume|scientificName
-alg_taxonomyRaw|alg_biovolume|scientificName
-alg_archive|alg_biomass|sampleID
-alg_archive|alg_fieldData|Requires intermediate table: join via alg_biomass table
-alg_archive|alg_qualityCheck|sampleID
-alg_archive|alg_taxonomyProcessed|sampleID
-alg_archive|alg_taxonomyRaw|sampleID
-alg_biomass|alg_qualityCheck|sampleID
-alg_fieldData|alg_qualityCheck|Requires intermediate table: join via alg_biomass table
 alg_fieldData|alg_taxonomyProcessed|Requires intermediate table: join via alg_biomass table
 alg_fieldData|alg_taxonomyRaw|Requires intermediate table: join via alg_biomass table
-alg_qualityCheck|alg_taxonomyProcessed|sampleID
-alg_qualityCheck|alg_taxonomyRaw|sampleID
-alg_taxonomyProcessed|alg_taxonomyRaw|sampleID
+alg_qualityCheck|alg_taxonomyProcessed|sampleID, algalAnalysisMethod
+alg_qualityCheck|alg_taxonomyRaw|sampleID, algalAnalysisMethod
+alg_taxonomyProcessed|alg_taxonomyRaw|Join not recommended.
+alg_archive|Any other table|Join not recommended. This table is an account of subsamples shipped to the biorepository.
 alg_biovolumes|Any other table|Join not recommended. Data resolution does not match other tables.
