@@ -1,6 +1,6 @@
 |Table 1|Table 2|Join by field(s)|
 |------------------------|------------------------|-------------------------------|
-vst_perplotperyear|vst_mappingandtagging|plotID
+vst_perplotperyear|vst_mappingandtagging|Join not recommended: vst\_perplotperyear and vst\_mappingand tagging represent different temporal resolution
 vst_mappingandtagging|vst_apparentindividual|individualID
 vst_perplotperyear|vst_apparentindividual|Join not recommended: vst_perplotperyear provides annual metadata at the plot level
 vst_shrubgroup|vst_perplotperyear|Join not recommended: vst_perplotperyear provides annual metadata at the plot level
