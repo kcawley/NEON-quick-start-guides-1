@@ -1,5 +1,5 @@
 |Table 1|Table 2|Join by field(s)|
 |------------------------|------------------------|-------------------------------|
 mam_perplotnight|mam_pertrapnight|nightuid
-mam_pertrapnight|mam_voucher|voucherSampleID
+mam_pertrapnight|mam_voucher|Full join not recommended: tables not related. Vouchers listed here reflect vouchers collected outside of normal mammal trapping activities during other NEON sampling protocols.
 mam_perplotnight|mam_voucher|Requires intermediate table: Join via mam_pertrapnight table.
