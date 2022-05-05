@@ -1,5 +1,5 @@
 |Table 1|Table 2|Join by field Table 1|Join by field Table 2|
-|------------------------|------------------------|-------------------------------|
+|-----------------|----------------|-------------------------|--------------------|
 brd_perpoint|brd_countdata|eventID, pointID|eventID, pointID|
 brd_perpoint|brd_references|siteID, startDate|siteID, date|
 brd_countdata|brd_references|Join not recommended: References apply to entire observation period. Connect references to observations via siteID and dates.||
