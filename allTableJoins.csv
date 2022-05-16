@@ -55,34 +55,34 @@
 "bet_expertTaxonomistIDRaw","bet_sorting","Requires intermediate table: Join via the bet_parataxonomistID table.","Requires intermediate table: Join via the bet_parataxonomistID table.",NA
 "bet_fielddata","bet_parataxonomistID","Requires intermediate table: Join via the bet_sorting table.","Requires intermediate table: Join via the bet_sorting table.",NA
 "hbp_perbout","hbp_massdata","sampleID","sampleID",NA
-"cfc_fieldData","cfc_chemistrySubsampling","sampleID","sampleID",NA
-"cfc_fieldData","cfc_chlorophyll","sampleID","sampleID",NA
-"cfc_fieldData","cfc_carbonNitrogen","sampleID","sampleID",NA
-"cfc_fieldData","cfc_elements","sampleID","sampleID",NA
-"cfc_fieldData","cfc_lignin","sampleID","sampleID",NA
-"cfc_fieldData","cfc_LMA","sampleID","sampleID",NA
-"cfc_fieldData","vst_mappingandtagging","individualID","individualID",NA
-"cfc_carbonNitrogen","cfc_chemistrySubsampling","sampleID","sampleID",NA
-"cfc_carbonNitrogen","cfc_chlorophyll","sampleID","sampleID",NA
-"cfc_carbonNitrogen","cfc_elements","sampleID","sampleID",NA
-"cfc_carbonNitrogen","cfc_lignin","sampleID","sampleID",NA
-"cfc_carbonNitrogen","cfc_LMA","sampleID","sampleID",NA
-"cfc_chemistrySubsampling","cfc_chlorophyll","sampleID","sampleID",NA
-"cfc_chemistrySubsampling","cfc_elements","sampleID","sampleID",NA
-"cfc_chemistrySubsampling","cfc_lignin","sampleID","sampleID",NA
-"cfc_chemistrySubsampling","cfc_LMA","sampleID","sampleID",NA
-"cfc_chlorophyll","cfc_elements","sampleID","sampleID",NA
-"cfc_chlorophyll","cfc_lignin","sampleID","sampleID",NA
-"cfc_chlorophyll","cfc_LMA","sampleID","sampleID",NA
-"cfc_elements","cfc_lignin","sampleID","sampleID",NA
-"cfc_elements","cfc_LMA","sampleID","sampleID",NA
-"cfc_lignin","cfc_LMA","sampleID","sampleID",NA
-"bgc_CNiso_externalSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"cfc_chlorophyllParameters","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"cfc_chlorophyllSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"cfc_elementsSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"lig_externalSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"cfc_shapefile","Any other table","Join not recommended. This table provides metadata about canopy perimeter shapefiles collected during sampling. ","Join not recommended. This table provides metadata about canopy perimeter shapefiles collected during sampling. ",NA
+"cfc_fieldData","cfc_chemistrySubsampling","sampleID","sampleID",""
+"cfc_fieldData","cfc_chlorophyll","sampleID","sampleID",""
+"cfc_fieldData","cfc_carbonNitrogen","sampleID","sampleID",""
+"cfc_fieldData","cfc_elements","sampleID","sampleID",""
+"cfc_fieldData","cfc_lignin","sampleID","sampleID",""
+"cfc_fieldData","cfc_LMA","sampleID","sampleID",""
+"cfc_fieldData","vst_mappingandtagging","individualID","individualID","Use a left join for these tables; most tagged plants have not been sampled for foliage."
+"cfc_carbonNitrogen","cfc_chemistrySubsampling","sampleID","sampleID",""
+"cfc_carbonNitrogen","cfc_chlorophyll","sampleID","sampleID",""
+"cfc_carbonNitrogen","cfc_elements","sampleID","sampleID",""
+"cfc_carbonNitrogen","cfc_lignin","sampleID","sampleID",""
+"cfc_carbonNitrogen","cfc_LMA","sampleID","sampleID",""
+"cfc_chemistrySubsampling","cfc_chlorophyll","sampleID","sampleID",""
+"cfc_chemistrySubsampling","cfc_elements","sampleID","sampleID",""
+"cfc_chemistrySubsampling","cfc_lignin","sampleID","sampleID",""
+"cfc_chemistrySubsampling","cfc_LMA","sampleID","sampleID",""
+"cfc_chlorophyll","cfc_elements","sampleID","sampleID",""
+"cfc_chlorophyll","cfc_lignin","sampleID","sampleID",""
+"cfc_chlorophyll","cfc_LMA","sampleID","sampleID",""
+"cfc_elements","cfc_lignin","sampleID","sampleID",""
+"cfc_elements","cfc_LMA","sampleID","sampleID",""
+"cfc_lignin","cfc_LMA","sampleID","sampleID",""
+"bgc_CNiso_externalSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",""
+"cfc_chlorophyllParameters","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",""
+"cfc_chlorophyllSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",""
+"cfc_elementsSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",""
+"lig_externalSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",""
+"cfc_shapefile","Any other table","Join not recommended. This table provides metadata about canopy perimeter shapefiles collected during sampling.","Join not recommended. This table provides metadata about canopy perimeter shapefiles collected during sampling.",""
 "ltr_pertrap","ltr_fielddata","trapID","trapID",NA
 "ltr_fielddata","ltr_massdata","fieldSampleID","fieldSampleID",NA
 "ltr_massdata","ltr_chemistrySubsampling","Not fully automatable: multiple massSampleIDs are pooled into massSampleIDList","Not fully automatable: multiple massSampleIDs are pooled into massSampleIDList",NA
@@ -207,9 +207,9 @@
 "sls_soilMoisture","sls_soilpH","sampleID","sampleID",NA
 "bgc_CNiso_externalSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
 "ntr_externalSummary","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"tck_pathogen","tck_taxonomyProcessed","subsampleID","subsampleID",NA
-"tck_pathogen","tck_taxonomyRaw","subsampleID","subsampleID",NA
-"tck_pathogen","tck_pathogenqa","batchID","batchID",NA
+"tck_pathogen","tck_taxonomyProcessed","subsampleID","subsampleID",""
+"tck_pathogen","tck_taxonomyRaw","subsampleID","subsampleID",""
+"tck_pathogen","tck_pathogenqa","batchID","batchID","batchID can only be used to join these tables for data collected after 2021-01-01. Prior to that date, batchID does not uniquely correspond to specific samples."
 "tck_fielddata","tck_taxonomyProcessed","sampleID","sampleID",NA
 "tck_fielddata","tck_taxonomyRaw","subsampleID","subsampleID",NA
 "tck_taxonomyProcessed","tck_taxonomyRaw","sampleID","sampleID",NA
