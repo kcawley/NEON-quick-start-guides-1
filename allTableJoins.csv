@@ -61,7 +61,7 @@
 "cfc_fieldData","cfc_elements","sampleID","sampleID",""
 "cfc_fieldData","cfc_lignin","sampleID","sampleID",""
 "cfc_fieldData","cfc_LMA","sampleID","sampleID",""
-"cfc_fieldData","vst_mappingandtagging","individualID","individualID","Use a left join for these tables; most tagged plants have not been sampled for foliage."
+"cfc_fieldData","vst_mappingandtagging","individualID","individualID","Use a left join for these tables; most tagged plants have not been sampled for foliage. If using neonOS::joinTableNEON(), include input parameter location.fields=FALSE"
 "cfc_carbonNitrogen","cfc_chemistrySubsampling","sampleID","sampleID",""
 "cfc_carbonNitrogen","cfc_chlorophyll","sampleID","sampleID",""
 "cfc_carbonNitrogen","cfc_elements","sampleID","sampleID",""
