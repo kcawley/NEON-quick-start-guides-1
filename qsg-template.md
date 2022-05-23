@@ -2,10 +2,10 @@
 <html lang="en-us">
 <head>
     <meta charset="utf-8">
-    <title>NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE }}</title>
-    <meta name="subject" content="NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE }}"/>
+    <title>NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE ignoreNoWrap }}</title>
+    <meta name="subject" content="NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE ignoreNoWrap }}"/>
     <meta name="author" content="National Ecological Observatory Network"/>
-    <meta name="description" content="NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE }}"/>
+    <meta name="description" content="NEON Data Product Quick Start Guide - {{> DP.PRODUCT_CODE ignoreNoWrap }}"/>
     <style neon-qsg-standalone-html-remove>
         @page {
             size: letter;
