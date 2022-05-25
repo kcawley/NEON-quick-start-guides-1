@@ -12,6 +12,8 @@ Then, group the data by sampleID and calculate the fragmentDryMass for the sampl
 
 Once the fine root mass calculated from the bbc_rootmass and bbc_dilution tables have been summed for each sampleID, the last step is to join with bbc_percore data in order to scale to either root mass per unit area or root mass density. Once again, join the calculated total fine root biomass to the bbc_percore table using the sampleID, and then utilize 'rootSampleArea' and 'rootSampleDepth' columns as needed in order to appropriately scale the root mass data. Note that 'rootSampleArea' is reported in m^2 and 'rootSampleDepth' is reported in centimeters.
 
+For the carbon and nitrogen data, analytical replicates (indicated by the field analyticalRepNumber )should typically be averaged to determine a single value per sample per analyte, before joining to other tables. Additionally, if carbon and nitrogen were analyzed separately (co2Trapped = N and Y respectively), users may wish to combine these values first before joining to other tables.
+
 
 
 
