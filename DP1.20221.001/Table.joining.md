@@ -16,7 +16,7 @@ zoo_fieldData|zoo_markerGeneSequencing|Requires intermediate table: join via zoo
 zoo_fieldData|zoo_metabarcodeTaxonomy|Requires intermediate table: join via zoo_dnaExtraction table
 zoo_fieldData|zoo_pcrAmplification|Requires intermediate table: join via zoo_dnaExtraction table
 zoo_markerGeneSequencing|zoo_metabarcodeTaxonomy|Join not recommended. Data resolution does not match other tables.
-zoo_markerGeneSequencing|zoo_pcrAmplification|dnaSampleID + primerSetID
+zoo_markerGeneSequencing|zoo_pcrAmplification|dnaSampleID,primerSetID
 zoo_metabarcodeTaxonomy|zoo_pcrAmplification|Join not recommended. Data resolution does not match other tables.
 inv_dnaExtractionStandard|Any other table|Join not recommended. Data resolution does not match other tables.
 inv_dnaRawDataFilesStandard|Any other table|Join not recommended. Data resolution does not match other tables.
