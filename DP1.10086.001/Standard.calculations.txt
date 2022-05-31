@@ -1,4 +1,4 @@
-Only records that are sampleImpractical = OK (or NA for older records) in sls_soilCoreCollection are expected to have records in downstream tables. As such, users may wish to filter our records that do not meet this condition before proceeding with table joins.
+Only records in which sampleImpractical = OK (or NA, prior to the 2020 field season) in sls_soilCoreCollection are expected to have corresponding records in downstream tables. As such, users may wish to filter out records that do not meet this condition before proceeding with table joins.
 
 An outline of the standard calculations for determining net N mineralization and net nitrification rates from inorganic N concentrations in initial and incubated cores can be found in the Appendix of the NEON User Guide to Soil inorganic nitrogen pools and transformations, included in the data package. The neonNTrans code package can be used to quickly make these calculations in R (https://github.com/NEONScience/NEON-Nitrogen-Transformations).
 
