@@ -7,9 +7,9 @@ zoo_dnaExtraction|zoo_dnaRawDataFiles|dnaSampleID
 inv_dnaExtractionStandard|inv_pcrAmplificationStandard|dnaSampleID
 inv_dnaExtractionStandard|inv_markerGeneSequencingStandard|dnaSampleID
 inv_dnaExtractionStandard|inv_dnaRawDataFilesStandard|dnaSampleID
-zoo_dnaExtraction|zoo_metabarcodeTaxonomy||Join not recommended. Data resolution does not match other tables.
+zoo_dnaExtraction|zoo_metabarcodeTaxonomy|Join not recommended. Data resolution does not match other tables.
 zoo_dnaRawDataFiles|zoo_fieldData|Requires intermediate table: join via zoo_dnaExtraction table
-zoo_dnaRawDataFiles|zoo_markerGeneSequencing||Join not recommended. Join via dnaSampleID will double records.
+zoo_dnaRawDataFiles|zoo_markerGeneSequencing|Join not recommended. Join via dnaSampleID will double records.
 zoo_dnaRawDataFiles|zoo_metabarcodeTaxonomy|Join not recommended. Join via dnaSampleID will double records.
 zoo_dnaRawDataFiles|zoo_pcrAmplification|Join not recommended. Join via dnaSampleID will double records.
 zoo_fieldData|zoo_markerGeneSequencing|Requires intermediate table: join via zoo_dnaExtraction table
