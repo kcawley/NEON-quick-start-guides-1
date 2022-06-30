@@ -103,6 +103,8 @@
 ## Collection methodology
 {{. Collection.methodology }}
 
+For information about disturbances, land management activities, and other incidents that may impact data at NEON sites, see the [Site management and event reporting (DP1.10111.001)](https://data.neonscience.org/data-products/DP1.10111.001) data product.
+
 {{if REPO.FILE [Maintenance.and.calibration] }}
 ## Maintenance and calibration
 {{. Maintenance.and.calibration }}  
@@ -140,6 +142,8 @@ validation: Description of data validation applied at the points of collection a
 
 {{if REPO.FILE [Standard.calculations] }}
 ## Standard calculations
+For wrapper functions to download data from the API, and functions to merge tabular data files across sites and months, see the [neonUtilities R package](https://cran.r-project.org/web/packages/neonUtilities/index.html).
+
 {{. Standard.calculations }}  
 {{end}}
 
