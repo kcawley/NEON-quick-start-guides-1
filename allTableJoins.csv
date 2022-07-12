@@ -269,7 +269,7 @@
 "apc_morphospecies","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
 "apc_perTaxon","apc_taxonomyRaw","sampleID","sampleID",NA
 "apc_perTaxon","apc_taxonomyProcessed","sampleID","sampleID",NA
-"apc_pointTransect","apc_perTaxon","namedLocation,pointNumber","namedLocation,pointNumber",NA
+"apc_pointTransect","apc_perTaxon","namedLocation,pointNumber,collectDate","namedLocation,pointNumber,collectDate",NA
 "apc_pointTransect","apc_taxonomyProcessed","Requires intermediate table: join via apc_perTaxon table","Requires intermediate table: join via apc_perTaxon table",NA
 "apc_pointTransect","apc_taxonomyRaw","Requires intermediate table: join via apc_perTaxon table","Requires intermediate table: join via apc_perTaxon table",NA
 "apc_taxonomyProcessed","apc_taxonomyRaw","Join not recommended. These tables contain identifications of the same samples with possibly differing higher-order taxonomy; see User Guide.","Join not recommended. These tables contain identifications of the same samples with possibly differing higher-order taxonomy; see User Guide.",NA
