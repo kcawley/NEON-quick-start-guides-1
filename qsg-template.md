@@ -34,21 +34,11 @@
         }
     </style>
     <style neon-qsg-standalone-html-remove>
-        body {
-            font-family: 'Inter', sans-serif;
-            margin: 0;
-        }
         header {
             position: running(neon-header);
         }
         footer {
             position: running(neon-footer);
-        }
-        table,
-        div.pdf-ua-display-as-table {
-            -fs-table-paginate: paginate;
-            margin-left: 1px;
-            margin-right: 1px;
         }
     </style>
 </head>
