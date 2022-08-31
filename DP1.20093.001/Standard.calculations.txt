@@ -1,3 +1,1 @@
 Note that data in the swc_externalLabDataByAnalyte table are reported in long format, with one record for each combination of sample and analyte.
-
-Note taht values can be blank (or NA when downloaded using neonUtilities) for analyteConcentration for a few different reasons. Users are encouraged to look at entries in sampleCondition and belowDetectionQF for details on the reason for a particular record. Records with entries other than "GOOD" or "OK" in sampleCondition likely indicate that data for a given analyte were not collected and users cannot infer a value for the analyte to include in their analysis. For records with "ND" values for belowDetectionQF, users can infer that the analyte concentration is very low and may want to include the records in their analysis.
