@@ -6,6 +6,6 @@ apc_pointTransect|apc_perTaxon|namedLocation,pointNumber,collectDate||
 apc_pointTransect|apc_taxonomyProcessed|Requires intermediate table: join via apc_perTaxon table||
 apc_pointTransect|apc_taxonomyRaw|Requires intermediate table: join via apc_perTaxon table||
 apc_taxonomyProcessed|apc_taxonomyRaw|Join not recommended. These tables contain identifications of the same samples with possibly differing higher-order taxonomy; see User Guide.||
-apc_voucher|apc_voucherTaxonomyRaw|sampleID|Use a left join for these tables|
-apc_voucher|apc_voucherTaxonomyProcessed|sampleID|Use a left join for these tables|
+apc_voucher|apc_voucherTaxonomyRaw|sampleID||
+apc_voucher|apc_voucherTaxonomyProcessed|sampleID||
 apc_morphospecies|Any other table|Join not recommended. Data resolution does not match other tables.||
