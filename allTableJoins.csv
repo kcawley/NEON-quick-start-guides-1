@@ -276,7 +276,6 @@
 "apc_voucher","apc_voucherTaxonomyRaw","sampleID","sampleID",NA
 "apc_voucher","apc_voucherTaxonomyProcessed","sampleID","sampleID",NA
 "apc_morphospecies","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"apc_voucher","Any other table","Join to tables other than the voucher taxonomy tables is not recommended.","Join to tables other than the voucher taxonomy tables is not recommended.",NA
 "mcc_benthicTaxonTableMetadata_16S","mcc_benthicTaxonTableMetadata_ITS","dnaSampleID","dnaSampleID",NA
 "mcc_taxonTableLabSummary","mcc_benthicTaxonTableMetadata_16S","testMethod","testMethod",NA
 "mcc_taxonTableLabSummary","mcc_benthicTaxonTableMetadata_ITS","testMethod","testMethod",NA
