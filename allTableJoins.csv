@@ -32,7 +32,7 @@
 "brd_perpoint","brd_countdata","eventID, pointID","eventID, pointID",NA
 "brd_perpoint","brd_references","siteID, startDate","siteID, date",NA
 "brd_countdata","brd_references","Join not recommended: References apply to entire observation period. Connect references to observations via siteID and dates.","",NA
-"brd_personnel","Any other table","Join not recommended: Test scores are annual. To find relevant scores, measuredBy and technicianID fields match for the same observer, and test scores are relevant to data collected during the year of the test(s).","",NA
+"brd_personnel","Any other table","Join not recommended: Personnel are tested annually. To find relevant scores, measuredBy and technicianID fields match for the same observer, and test scores are relevant to data collected during the year of the test(s).","",NA
 "cdw_densitylog","cdw_densitydisk","sampleID","sampleID",NA
 "dhp_perplot","dhp_perimagefile","sampleID","sampleID",NA
 "bet_fielddata","bet_sorting","sampleID","sampleID",NA
@@ -257,16 +257,16 @@
 "apl_biomass","apl_plantExternalLabDataPerSample","chemSubsampleID","sampleID",NA
 "apl_plantExternalLabQA","Any other table","Join not recommended. Data resolution does not match other tables.","",NA
 "asi_externalLabPOMSummaryData","Any other table","Join not recommended. Data resolution does not match other tables.","",NA
-"apl_clipHarvest","apl_pointTransect","eventID","eventID",NA
-"apl_clipHarvest","apc_morphospecies","Not fully automatable: Records can be connected by siteID and morphospeciesID, and overlap of collectDate with morphospeciesCreated and morphospeciesResolved dates","Not fully automatable: Records can be connected by siteID and morphospeciesID, and overlap of collectDate with morphospeciesCreated and morphospeciesResolved dates",NA
-"apl_clipHarvest","apl_algaeExternalLabDataPerSample","sampleID","sampleID",NA
-"apl_clipHarvest","apl_biomass","fieldID","fieldID",NA
-"apl_biomass","apl_taxonomyRaw","sampleID","sampleID",NA
-"apl_biomass","apl_taxonomyProcessed","sampleID","sampleID",NA
-"apl_clipHarvest","apl_taxonomyRaw","Requires intermediate table: Join via apl_biomass table","Requires intermediate table: Join via apl_biomass table",NA
-"apl_clipHarvest","apl_taxonomyProcessed","Requires intermediate table: Join via apl_biomass table","Requires intermediate table: Join via apl_biomass table",NA
-"apl_taxonomyRaw","apl_taxonomyProcessed","Join not recommended. These tables contain identifications of the same samples with possibly differing higher-order taxonomy; see User Guide.","Join not recommended. These tables contain identifications of the same samples with possibly differing higher-order taxonomy; see User Guide.",NA
-"apc_morphospecies","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
+"apl_clipHarvest","apl_pointTransect","eventID","eventID",""
+"apl_clipHarvest","apc_morphospecies","Not fully automatable: Records can be connected by siteID and morphospeciesID, and overlap of collectDate with morphospeciesCreated and morphospeciesResolved dates","Not fully automatable: Records can be connected by siteID and morphospeciesID, and overlap of collectDate with morphospeciesCreated and morphospeciesResolved dates",""
+"apl_clipHarvest","apl_algaeExternalLabDataPerSample","sampleID","sampleID",""
+"apl_clipHarvest","apl_biomass","fieldID","fieldID",""
+"apl_biomass","apl_taxonomyRaw","sampleID","sampleID","Note that there may be multiple records per sampleID in apl_taxonomyRaw, and not every record in apl_biomass has a corresponding record in apl_taxonomyRaw"
+"apl_biomass","apl_taxonomyProcessed","sampleID","sampleID","Note that there may be multiple records per sampleID in apl_taxonomyProcessed, and not every record in apl_biomass has a corresponding record in apl_taxonomyProcessed"
+"apl_clipHarvest","apl_taxonomyRaw","Requires intermediate table: Join via apl_biomass table","Requires intermediate table: Join via apl_biomass table",""
+"apl_clipHarvest","apl_taxonomyProcessed","Requires intermediate table: Join via apl_biomass table","Requires intermediate table: Join via apl_biomass table",""
+"apl_taxonomyRaw","apl_taxonomyProcessed","Join not recommended. These tables contain identifications of the same samples with possibly differing higher-order taxonomy; see User Guide.","Join not recommended. These tables contain identifications of the same samples with possibly differing higher-order taxonomy; see User Guide.",""
+"apc_morphospecies","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",""
 "apc_perTaxon","apc_taxonomyRaw","sampleID","sampleID",NA
 "apc_perTaxon","apc_taxonomyProcessed","sampleID","sampleID",NA
 "apc_pointTransect","apc_perTaxon","namedLocation,pointNumber,collectDate","namedLocation,pointNumber,collectDate",NA
@@ -276,7 +276,6 @@
 "apc_voucher","apc_voucherTaxonomyRaw","sampleID","sampleID",NA
 "apc_voucher","apc_voucherTaxonomyProcessed","sampleID","sampleID",NA
 "apc_morphospecies","Any other table","Join not recommended. Data resolution does not match other tables.","Join not recommended. Data resolution does not match other tables.",NA
-"apc_voucher","Any other table","Join to tables other than the voucher taxonomy tables is not recommended.","Join to tables other than the voucher taxonomy tables is not recommended.",NA
 "mcc_benthicTaxonTableMetadata_16S","mcc_benthicTaxonTableMetadata_ITS","dnaSampleID","dnaSampleID",NA
 "mcc_taxonTableLabSummary","mcc_benthicTaxonTableMetadata_16S","testMethod","testMethod",NA
 "mcc_taxonTableLabSummary","mcc_benthicTaxonTableMetadata_ITS","testMethod","testMethod",NA
